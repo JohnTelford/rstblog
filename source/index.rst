@@ -8,7 +8,7 @@
     - An opinionated technology web site about technologies of interest to me
     - Sep 21, 2020
 
-Welcome to rstBlog's documentation!
+rstBlog'
 ===================================
 
 
