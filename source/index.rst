@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
    
 rstBlog
-===================================
+=======
 
 .. note:: 
     - Work in Progress!
@@ -17,15 +17,11 @@ Checkout the sites `Home <https://pwadev.com>`_
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
+   :glob:
 
+   Building
    about
-   Installs
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
