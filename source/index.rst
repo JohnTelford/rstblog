@@ -3,15 +3,20 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to rstBlog's documentation!
-===================================
+Tech Talk
+=========
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   about
    Installs
+   Notes
+
+.. toctree::
+   :hidden:
+   
+   about.rst
 
 Indices and tables
 ==================
