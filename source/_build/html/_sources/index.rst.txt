@@ -21,8 +21,5 @@ Checkout the sites `Home Page <https://pwadev.com>`_
    :caption: Contents:
    :glob:
 
-   Building
+   building
    about
-   self
-
-
