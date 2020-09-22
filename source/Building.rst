@@ -29,7 +29,3 @@ This is Cliff notes::
     go to blog root
     netlify init
     netlify deploy --prod
-
-
-
-is it working?
