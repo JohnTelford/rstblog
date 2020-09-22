@@ -1,6 +1,5 @@
-.. _post: Sep 20, 2020
 
-Creating a rstBlog
+Building a rstBlog
 ==================
 
 Sep 20, 2020 11-06 AM
