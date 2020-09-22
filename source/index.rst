@@ -25,17 +25,6 @@ Tech Talk
    :maxdepth: 1
    :caption: Contents:
 
-<<<<<<< HEAD
-   Installs
-   Notes
-
-.. toctree::
-   :hidden:
-   
-   about.rst
-
-Indices and tables
-==================
 
 * :ref:`genindex`
 * :ref:`modindex`
@@ -44,4 +33,3 @@ Indices and tables
    about
    building
    
->>>>>>> master
