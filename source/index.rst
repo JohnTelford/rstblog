@@ -13,7 +13,7 @@ rstBlog
 
 This blog is named *rstBlog* because it is  using reST,  `reStructuredText  <http://docutils.sourceforge.net/rst.html>`_ technology
 
-Checkout the sites `Home <https://pwadev.com>`_
+Checkout the sites `Home Page <https://pwadev.com>`_
 
 
 .. toctree::
@@ -21,7 +21,5 @@ Checkout the sites `Home <https://pwadev.com>`_
    :caption: Contents:
    :glob:
 
-   Building
+   building
    about
-
-
