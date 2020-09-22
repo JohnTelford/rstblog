@@ -8,7 +8,7 @@ rstBlog
 
 .. note:: 
     - Work in Progress!
-    - An opinionated technology web site about technologies of interest to me
+    - An opinionated technology blog about technologies of interest to me
     - Sep 21, 2020
 
 The blog is named *rstBlog* because it is  using *rst* `reStructuredText  <http://docutils.sourceforge.net/rst.html>`_ technology
