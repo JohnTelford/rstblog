@@ -20,3 +20,4 @@ I am an Electronics and Software Engineer specializing in web architecture, deve
 | Portland, Oregon
 | john at johntelford com 
 
+zzz
