@@ -19,14 +19,17 @@ Mac Shell Install Commands::
     sphinx-quickstart
     pip install -U ablog
 
-Transfer Blog
--------------
-
-rusync build/html /Volumes/Dev/rstJohn/build/html/rstBlog
-
 Deploying to Netlify
 --------------------
 
+This is Cliff notes::
+
+    make a git repo
+    connect netlify to repo
+    download netlify CLI
+    go to blog root
+    netlify init
+    netlify deploy --prod
 
 
 
