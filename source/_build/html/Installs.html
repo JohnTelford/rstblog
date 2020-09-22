@@ -49,12 +49,17 @@
 </pre></div>
 </div>
 </div>
-<div class="section" id="transfer-blog">
-<h2>Transfer Blog<a class="headerlink" href="#transfer-blog" title="Permalink to this headline">¶</a></h2>
-<p>rusync build/html /Volumes/Dev/rstJohn/build/html/rstBlog</p>
-</div>
 <div class="section" id="deploying-to-netlify">
 <h2>Deploying to Netlify<a class="headerlink" href="#deploying-to-netlify" title="Permalink to this headline">¶</a></h2>
+<p>This is Cliff notes:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">make</span> <span class="n">a</span> <span class="n">git</span> <span class="n">repo</span>
+<span class="n">connect</span> <span class="n">netlify</span> <span class="n">to</span> <span class="n">repo</span>
+<span class="n">download</span> <span class="n">netlify</span> <span class="n">CLI</span>
+<span class="n">go</span> <span class="n">to</span> <span class="n">blog</span> <span class="n">root</span>
+<span class="n">netlify</span> <span class="n">init</span>
+<span class="n">netlify</span> <span class="n">deploy</span> <span class="o">--</span><span class="n">prod</span>
+</pre></div>
+</div>
 </div>
 </div>
 
@@ -80,7 +85,6 @@
 <li class="toctree-l1"><a class="reference internal" href="about.html">About John Telford</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Creating a rstBlog</a><ul>
 <li class="toctree-l2"><a class="reference internal" href="#shell">Shell</a></li>
-<li class="toctree-l2"><a class="reference internal" href="#transfer-blog">Transfer Blog</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#deploying-to-netlify">Deploying to Netlify</a></li>
 </ul>
 </li>
