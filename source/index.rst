@@ -11,7 +11,7 @@ rstBlog
     - An opinionated technology web site about technologies of interest to me
     - Sep 21, 2020
 
-This blog is named *rstBlog* because it is  using *rst* `reStructuredText  <http://docutils.sourceforge.net/rst.html>`_ technology
+The blog is named *rstBlog* because it is  using *rst* `reStructuredText  <http://docutils.sourceforge.net/rst.html>`_ technology
 
 Checkout the sites `Home Page <https://pwadev.com>`_
 
