@@ -19,7 +19,7 @@ Checkout the sites `Home Page <https://pwadev.com>`_
 .. toctree::
    :maxdepth: 1
    :caption: Contents:
-   :glob:
 
-   building
    about
+   building
+   
