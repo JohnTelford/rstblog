@@ -1,0 +1,7 @@
+
+.. _about:
+
+About rstBlog
+
+The world wants to know more about you.
+
