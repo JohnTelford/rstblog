@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tech Talk Blog
+Tech Talk John
 ==============
 
-| Tech Talk blog posts are opinionated.  They are uplifting or depressing. They are facts or fiction technologies I find buried within  the mountains of info rubble produced daily by the Electronic, Internet, and Software industries
+| Tech Talk John blog posts are opinionated.  They are uplifting or depressing. They are facts or fiction technologies I find buried within  the mountains of info rubble produced daily by the Electronic, Internet, and Software industries
 | 
 | Recent posts:
 
