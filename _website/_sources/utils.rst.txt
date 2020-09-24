@@ -1,0 +1,17 @@
+
+Utils
+=====
+
+.. post:: Sep 23, 2020
+   :tags:
+   :category:
+
+Rust Utilities
+
+fd - fd is a simple, fast and user-friendly alternative to find
+
+gitui - Blazing fast terminal client for git written in Rust
+
+mdbook - mdBook is a utility to create modern online books from Markdown files
+
+rg - ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern
