@@ -2,7 +2,7 @@
 
 
 # rstBlog build configuration file, created by
-# `ablog start` on Thu Sep 24 18:33:03 2020.
+# `ablog start` on Thu Sep 24 17:55:41 2020.
 #
 # Note that not all possible configuration values are present in this file.
 # All configuration values have a default; values that are commented out
@@ -19,7 +19,7 @@ import alabaster
 # blog_path = 'blog'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
-blog_title = u'Tech Talk'
+blog_title = u'rstBlog Blog'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
@@ -185,7 +185,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tech Talk'
+project = u'rstBlog'
 copyright = u'2020, John Telford'
 author = u'John Telford'
 

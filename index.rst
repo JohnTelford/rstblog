@@ -1,9 +1,9 @@
 
-.. rstBlog index file, created by `ablog start` on Thu Sep 24 17:41:53 2020.
+.. rstBlog index file, created by `ablog start` on Thu Sep 24 18:33:03 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Tech Talk John
+Tech Talk Blog
 ==============
 
 Hello World! Find more about me here: :ref:`about`
@@ -11,8 +11,7 @@ Hello World! Find more about me here: :ref:`about`
 
 Here is a list of most recent posts:
 
-.. postlist:: 5
-   :excerpts:
+   
 
 
 .. `toctree` directive, below, contains list of non-post `.rst` files.
@@ -25,5 +24,6 @@ Here is a list of most recent posts:
 .. toctree::
    :hidden:
 
-   about.rst
+   about
+   contact
 

@@ -22,4 +22,5 @@ Checkout the sites `Home Page <https://pwadev.com>`_
 
    about
    building
+   contact
    
