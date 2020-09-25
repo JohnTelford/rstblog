@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 
-# rstBlog build configuration file, created by
-# `ablog start` on Thu Sep 24 18:33:03 2020.
+# Tech Talk build configuration file, created by
+# `ablog start` on Thu Sep 24 22:50:31 2020.
 #
 # Note that not all possible configuration values are present in this file.
 # All configuration values have a default; values that are commented out
@@ -19,7 +19,7 @@ import alabaster
 # blog_path = 'blog'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
-blog_title = u'Tech Talk'
+blog_title = u'Tech Talk Blog'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
@@ -338,6 +338,6 @@ html_static_path = ['_static']
 # html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'rstBlogdoc'
+htmlhelp_basename = 'TechTalkdoc'
 
 
