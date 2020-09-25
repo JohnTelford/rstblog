@@ -11,7 +11,6 @@
 Tech Talk Blog
 ==============
 
-Hello World! Find more about me here: :ref:`about`
 
 
 Most recent posts:
@@ -29,5 +28,5 @@ Most recent posts:
 .. toctree::
    :hidden:
 
-   about.rst
-   contact.rst
+   about
+   contact
