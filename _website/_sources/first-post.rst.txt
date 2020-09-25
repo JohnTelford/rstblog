@@ -1,7 +1,7 @@
 
-.. rstBlog post example, created by `ablog start` on Sep 22, 2020.
+.. rstBlog post example, created by `ablog start` on Sep 24, 2020.
 
-.. post:: Sep 22, 2020
+.. post:: Sep 24, 2020
    :tags: atag
    :author: John Telford
 
