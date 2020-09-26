@@ -1,10 +1,11 @@
-
-`Rust Utilities <https://lib.rs/>`_
-===================================
+lib.rs Utilities
+================
 
 .. post:: Sep 23, 2020
-   :tags: rust 
-   :category: utilities
+   :tags: fd, gitui, rg
+   :category: Utilities
+
+`Rust Utilities <https://lib.rs/>`_
 
 fd
    fd is a simple, fast and user-friendly alternative to find

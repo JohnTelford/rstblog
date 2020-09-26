@@ -3,7 +3,7 @@ Docsteps
 ========
 
 .. post:: Sep 24, 2020
-   :tags:
+   :tags: doc
    :category:
 
 Keyboard Shortcuts
