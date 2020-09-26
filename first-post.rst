@@ -2,7 +2,7 @@
 .. Tech Talk post example, created by `ablog start` on Sep 24, 2020.
 
 .. post:: Sep 24, 2020
-   :tags: atag
+   :tags: sphinx
    :author: John Telford
 
 First Post

@@ -5,6 +5,7 @@
 
 .. note::
 
+   - v 0.0.1
    - Work in Progress
    - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, I find in my frequent panning of the Computer, Electronic, and Internet info rubble
 

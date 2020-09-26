@@ -1,0 +1,16 @@
+
+`Rust Utilities <https://lib.rs/>`_
+===================================
+
+.. post:: Sep 23, 2020
+   :tags: Rust 
+   :category: Utilities
+
+fd
+   fd is a simple, fast and user-friendly alternative to find
+
+gitui
+   Blazing fast terminal client for git written in Rust
+
+rg
+   ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern
