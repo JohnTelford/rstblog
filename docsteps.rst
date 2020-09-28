@@ -9,7 +9,6 @@ Docsteps
 Keyboard Shortcuts
 -------------------
 
-
 Insert Adornment  - `cmd+k cmd+=`
 
 
