@@ -3,7 +3,7 @@
 ==
 
 .. post:: Sep 27, 2020
-   :tags:
+   :tags: 5G
    :category:
 
 The cellular industry is saying 2020 was  going to be the year of 5G. 
@@ -76,10 +76,8 @@ Wi-Fi Generations
    4G is a very different technology as compared to 3G and was made possible practically only because of the advancements in the technology in the last 10 years. 
    Its purpose is to provide high speed , high quality and high capacity to users while improving security and lower the cost of voice and data services, multimedia and internet.
 
-.. figure:: _static/FiveGlogo.png
-      :width: 50%
+.. figure:: _static/5Glogo.png
 
-      5G
 
 * 5G 
 

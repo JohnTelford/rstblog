@@ -41,7 +41,3 @@ Plateau of Productivity
 
 Some technologies making it to the Plateau of Productivity may be doomed to the spiral of death by inattention to details of keeping them alive
 
-Contact
--------
-
-:ref:`Contact`
