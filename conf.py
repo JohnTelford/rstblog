@@ -147,7 +147,8 @@ html_sidebars = {
 
 # You can enable Disqus_ by setting ``disqus_shortname`` variable.
 # Disqus_ short name for the blog.
-# disqus_shortname = None
+disqus_shortname = "No@disqus_HitLJFydbtne"
+blog_baseurl = "https://techtalkjohn.com"
 
 # Choose to disqus pages that are not posts, default is ``False``.
 # disqus_pages = False
@@ -185,7 +186,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tech Talk'
+project = u'Tech Talk Blog'
 copyright = u'2020, John Telford'
 author = u'John Telford'
 
@@ -254,6 +255,7 @@ html_theme = 'alabaster'
 # documentation.
 html_theme_options = {
     'github_button': False,
+    'note_bg' : '#ccffcc',
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
