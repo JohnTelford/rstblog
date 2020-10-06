@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk Blog</title>
-  <updated>2020-10-06T01:18:50.299563+00:00</updated>
+  <updated>2020-10-06T05:16:01.251213+00:00</updated>
   <link href="https://techtalkjohn.com"/>
   <link href="https://techtalkjohn.com/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
@@ -66,14 +66,21 @@ in &lt;a class="reference internal" href="first-post.html#first-post"&gt;&lt;spa
     <published>2020-09-26T00:00:00-07:00</published>
   </entry>
   <entry>
-    <id>https://techtalkjohn.com/5g.html</id>
-    <title>5G</title>
-    <updated>2020-09-27T00:00:00-07:00</updated>
-    <content type="html">&lt;p&gt;The cellular industry is saying 2020 was  going to be the year of 5G.
-It will change the way we live, work, learn, play, and improve our global society.
-Whoopee!&lt;/p&gt;
+    <id>https://techtalkjohn.com/TEST.html</id>
+    <title>TEST</title>
+    <updated>2020-10-05T00:00:00-07:00</updated>
+    <content type="html">&lt;p&gt;This is testing discus posting&lt;/p&gt;
 </content>
-    <link href="https://techtalkjohn.com/5g.html" rel="alternate"/>
-    <published>2020-09-27T00:00:00-07:00</published>
+    <link href="https://techtalkjohn.com/TEST.html" rel="alternate"/>
+    <published>2020-10-05T00:00:00-07:00</published>
+  </entry>
+  <entry>
+    <id>https://techtalkjohn.com/TEST2.html</id>
+    <title>TEST2</title>
+    <updated>2020-10-05T00:00:00-07:00</updated>
+    <content type="html">&lt;p&gt;This is TEST2&lt;/p&gt;
+</content>
+    <link href="https://techtalkjohn.com/TEST2.html" rel="alternate"/>
+    <published>2020-10-05T00:00:00-07:00</published>
   </entry>
 </feed>
