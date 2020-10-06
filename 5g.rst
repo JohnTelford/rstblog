@@ -2,7 +2,7 @@
 5G
 ==
 
-.. post:: Sep 27, 2020
+.. post:: 
    :tags: 5G
    :category:
 
@@ -21,7 +21,7 @@ Then it will slide down to the Trough of Disillusionment until it it begins to c
 
 Most of 5G marketing is  Fiction, until the technology reaches the Slope of Enlightenment on the
 
-:ref:`hype-cycle`
+:ref:`Hype Cycle`
 
 
 
@@ -39,9 +39,6 @@ The core of new technologies are industry standards.
 It seems that 5G standards are in a state of flux. 
 Already, some early 5G deployments need a makeover because of standards changing.
 
-
-Wi-Fi Generations
------------------
 
 * 1G
 

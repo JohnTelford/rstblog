@@ -9,7 +9,6 @@ Checking out what’s new or not, what’s real or not, or what’s new and impr
 
 These industries are probably the fastest changing endeavors mankind has ever created. The half life of many products making it to market are relatively short. There are some very short lived and some that were just vapor.
 
-.. _hype-cycle:
 
 Hype Cycle
 ----------

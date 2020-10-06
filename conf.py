@@ -19,15 +19,15 @@ import alabaster
 # blog_path = 'blog'
 
 # The "title" for the blog, used in active pages.  Default is ``'Blog'``.
-blog_title = u'Tech Talk Blog'
+blog_title = u'Tech Talk'
 
 # Base URL for the website, required for generating feeds.
 # e.g. blog_baseurl = "http://example.com/"
-blog_baseurl = u''
+blog_baseurl = u'"https://techtalkjohn.com"'
 
 # Choose to archive only post titles. Archiving only titles can speed
 # up project building.
-# blog_archive_titles = False
+blog_archive_titles = True
 
 # -- Blog Authors, Languages, and Locations -----------------------------------
 
@@ -59,7 +59,7 @@ blog_authors = {
 # -- Blog Post Related --------------------------------------------------------
 
 # Format date for a post.
-# post_date_format = '%b %d, %Y'
+post_date_format = '%b %d, %Y'
 
 # Number of paragraphs (default is ``1``) that will be displayed as an excerpt
 # from the post. Setting this ``0`` will result in displaying no post excerpt
@@ -169,6 +169,7 @@ extensions = [
     'sphinx.ext.extlinks',
     'sphinx.ext.intersphinx',
     'sphinx.ext.todo',
+    'sphinx.ext.autosectionlabel',
     'alabaster',
     'ablog',
 ]
@@ -186,7 +187,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Tech Talk Blog'
+project = u'Tech Talk'
 copyright = u'2020, John Telford'
 author = u'John Telford'
 

@@ -1,9 +1,0 @@
-
-TEST
-====
-
-.. post:: Oct 05, 2020
-   :tags: TEST
-   :category:
-
-This is testing discus posting

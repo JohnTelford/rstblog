@@ -1,9 +1,9 @@
+Rust Utilities
+==============
+
 .. post:: Sep 26, 2020
    :tags: utils
    :category: Utilities
-
-Rust Utilities
-==============
 
 
 Check out `Lib.rs <https://lib.rs/>`_ for a list of rust utilities
