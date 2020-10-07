@@ -2,7 +2,7 @@
 5G
 ==
 
-.. post:: 
+.. post:: Oct 7, 2020
    :tags: 5G
    :category:
 
@@ -24,9 +24,7 @@ The Hype storm that 5G is generating, is awesome.
 The fiction is quickly climbing up the slope to  the Peak of Inflated Expectations. 
 Then it will slide down to the Trough of Disillusionment until it it begins to climb the Slope of Enlightenment and becomes reality.
 
-Most of 5G marketing is  Fiction, until the technology reaches the Slope of Enlightenment on the
-
-:ref:`Hype Cycle`
+Most of 5G marketing is  Fiction, until the technology reaches the Slope of Enlightenment on the :ref:`Hype Cycle`
 
 
 
@@ -38,7 +36,7 @@ This graphic show the *G* generations tree.
 
 .. note:: 
 
-   5G is not just an upgrade from 4G. 5G require new phone hardware and software, new towers with new hardware, and big changes to current phone and network designs. 
+   5G is not just an upgrade from 4G. 5G require new phone hardware and software, new towers with new hardware, and big changes to  phone and network designs. 
 
 The core of new technologies are industry standards. 
 It seems that 5G standards are in a state of flux. 
@@ -94,6 +92,7 @@ Some Dreams of 5G
 -----------------
 
 link:{url-5g-dream} ::
+`5G Dreams <https://www.lifewire.com/5g-use-cases-4261046>`_
 - Broadband Internet Everywhere
 - Smart Vehicles, Cities, and Factories
 - Immersive AR and VR
