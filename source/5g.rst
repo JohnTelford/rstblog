@@ -79,14 +79,13 @@ Already, some early 5G deployments need a makeover because of standards changing
 
 * 5G 
 
-   .. figure:: _static/5Glogo.png   
-
-
-   .. image:: _static/5Giceberg.png
+   .. image:: _static/5Glogo.png   
 
 
 
-20 Gigabits Per Second (Gbps)?
+
+
+   20 Gigabits Per Second (Gbps)?
 
    5G is not just an upgrade from 4G. 
 
@@ -97,6 +96,8 @@ Already, some early 5G deployments need a makeover because of standards changing
 5G Stark Realities
 ------------------
 
+
+   .. figure:: _static/5Giceberg.png
 
 
 
