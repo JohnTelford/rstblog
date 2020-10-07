@@ -1,18 +1,29 @@
 Rust Utilities
 ==============
 
+.. note::
+   
+   - Work in Progress
+
 .. post:: Sep 26, 2020
    :tags: utils
    :category: Utilities
 
 
-Check out `Lib.rs <https://lib.rs/>`_ for a list of rust utilities
+Some command line  utilities I find useful are:
 
-- fd
-   fd is a simple, fast and user-friendly alternative to find
+- ``fd`` is a simple, fast and user-friendly alternative to find
 
-- gitui
-   Blazing fast terminal client for git written in Rust
+- ``gitui`` is a blazing fast terminal client for git written in Rust
 
-- rg
-   ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern
+- ``rip`` a safe and ergonomic alternative to rm
+
+- ``rg`` ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern
+
+
+Rust Reference
+--------------
+
+   - `Index of  Rust libraries and Applications <https://lib.rs/>`_
+
+   - `Rust Programming Language <https://www.rust-lang.org/>`_

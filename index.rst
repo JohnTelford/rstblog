@@ -8,7 +8,7 @@ Tech Talk Blog
 
 .. note::
 
-   - Version: 0.0.3
+   - Version: 0.1.0
    - Work in Progress
    - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, I find in  frequent panning of the Computer, Electronic, and Internet info rubble
 

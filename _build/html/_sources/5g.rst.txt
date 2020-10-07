@@ -6,6 +6,11 @@
    :tags: 5G
    :category:
 
+.. note::
+   
+   - Work in Progress
+
+
 The cellular industry is saying 2020 was  going to be the year of 5G. 
 It will change the way we live, work, learn, play, and improve our global society. 
 Whoopee!
