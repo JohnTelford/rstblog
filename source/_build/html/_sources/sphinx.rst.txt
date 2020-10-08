@@ -12,7 +12,7 @@ Sphinx
    - Work in Progress
 
 
-Sphinx is a  web site generator framework for creating web sites and other types of documentation. It requires using Markdown or reStructuredText for editing  text material
+Sphinx is a  web site generator framework that abstracts  Markdown or reStructuredText  text editing language, producing HTML, CSS, and JavaScript  for browsers to render web sites using builtin interpreters.
 
 This blog is an example of using Sphinx and reStructuredText
 
@@ -32,6 +32,8 @@ HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of
 
 
 Web browsers interpret HTML, CSS and JavaScript to render web pages 
+
+HTML, CSS, and JavaScripts run natively using Web browser interpreters
 
 
 Sphinx Reference

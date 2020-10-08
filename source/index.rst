@@ -6,10 +6,10 @@
 Tech Talk Blog
 ==============
 
-   - Version: 0.1.1
 
 .. note::
 
+   - Version: |version|
    - Work in Progress
    - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, I find in  frequent panning of the Computer, Electronic, and Internet info rubble
 
