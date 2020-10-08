@@ -3,7 +3,7 @@
 ==
 
 .. post:: Oct 7, 2020
-   :tags: 5G
+   :tags: 5G, hype
    :category:
 
 .. note::

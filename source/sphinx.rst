@@ -3,7 +3,7 @@ Sphinx
 ======
 
 .. post:: Oct 6, 2020
-   :tags: sphinx, rst
+   :tags: sphinx, rst, HTML, CSS, Javascript
    :category: reStructuredText
 
 .. note:: Oct 6, 2020
