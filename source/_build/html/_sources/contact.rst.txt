@@ -5,6 +5,7 @@ I am an Electronics and Software Engineer specializing in web technology archite
 
 .. image:: _static/mugshot.png
 
+
 | John Telford
 | Portland, Oregon
 | john at johntelford dot com

@@ -20,6 +20,7 @@ The Hype Cycle helps separate reality from fiction.
     
     HypeCycle
 
+
 The Hype Cycle points of interest are:
 
 Technology Trigger

@@ -4,9 +4,10 @@ Rust Utilities
 .. note::
    
    - Work in Progress
+   
 
 .. post:: Sep 26, 2020
-   :tags: utils Rust
+   :tags: utils, Rust
    :category: Utilities
 
 

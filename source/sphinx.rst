@@ -3,12 +3,14 @@ Sphinx
 ======
 
 .. post:: Oct 6, 2020
-   :tags: sphinx, rst, HTML, CSS, Javascript
+   :tags: sphinx, rst, HTML, CSS, JavaScript
    :category: reStructuredText
+
 
 .. note:: Oct 6, 2020
    
    - Work in Progress
+
 
 Sphinx is a  web site generator framework for creating web sites and other types of documentation. It requires using Markdown or reStructuredText for editing  text material
 
