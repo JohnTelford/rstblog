@@ -43,7 +43,7 @@ It seems that 5G standards are in a state of flux.
 Already, some early 5G deployments need a makeover because of standards changing.
 
 
-* 1G
+- 1G
 
    First generation of broadband cellular network technology +
    1982 - 2.4 Kilobits Per Second (kbps) +
@@ -51,7 +51,7 @@ Already, some early 5G deployments need a makeover because of standards changing
 
    1G is an analog technology and the phones generally had poor battery life and voice quality was large without much security, and would sometimes experience dropped calls
 
-* 2G
+- 2G
 
    1992 - 64 kbps 
    64,000 bits per second 
@@ -59,7 +59,7 @@ Already, some early 5G deployments need a makeover because of standards changing
    The advance in technology from 1G to 2G introduced many of the fundamental services that we still use today, such as SMS, internal roaming , conference calls, call hold, etc..
 
 
-* 3G 
+- 3G 
 
    1998 - 2 Megabits (Mbps) 
 
@@ -67,7 +67,7 @@ Already, some early 5G deployments need a makeover because of standards changing
 
    This generation set the standards for most of the wireless technology, web browsing, email, video downloading, picture sharing and other Smartphone technology
 
-* 4G 
+- 4G 
 
    2011 - 100 Megabits (Mbps) 
 
@@ -77,7 +77,7 @@ Already, some early 5G deployments need a makeover because of standards changing
    Its purpose is to provide high speed , high quality and high capacity to users while improving security and lower the cost of voice and data services, multimedia and internet.
 
 
-* 5G 
+- 5G 
 
    .. image:: _static/5Glogo.png   
 
