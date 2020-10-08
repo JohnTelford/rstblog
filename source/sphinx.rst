@@ -31,9 +31,6 @@ HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of
    - JavaScript provides functionality
 
 
-Web browsers interpret HTML, CSS and JavaScript to render web pages 
-
-HTML, CSS, and JavaScripts run natively using Web browser interpreters
 
 
 Sphinx Reference
