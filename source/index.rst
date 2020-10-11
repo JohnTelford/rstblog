@@ -9,7 +9,7 @@ Tech Talk Blog
 
 .. note::
 
-   - Version: |version|
+   - Version: |version| - |today|
    - Work in Progress
    - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, I find in  frequent panning of the Computer, Electronic, and Internet info rubble
 

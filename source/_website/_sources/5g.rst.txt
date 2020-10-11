@@ -2,7 +2,7 @@
 5G
 ==
 
-.. post:: Oct 7, 2020
+.. post:: Oct 11, 2020
    :tags: 5G, hype
    :category:
 
@@ -43,41 +43,36 @@ It seems that 5G standards are in a state of flux.
 Already, some early 5G deployments need a makeover because of standards changing.
 
 
-- 1G
+- **1G**  1982 - 2.4 Kilobits Per Second (kbps) +
+
 
    First generation of broadband cellular network technology +
-   1982 - 2.4 Kilobits Per Second (kbps) +
-   2,400 bits per second +
 
    1G is an analog technology and the phones generally had poor battery life and voice quality was large without much security, and would sometimes experience dropped calls
 
-- 2G
+- **2G**   1992 - 64 kbps 
 
-   1992 - 64 kbps 
-   64,000 bits per second 
+
    
    The advance in technology from 1G to 2G introduced many of the fundamental services that we still use today, such as SMS, internal roaming , conference calls, call hold, etc..
 
 
-- 3G 
+- **3G**    1998 - 2 Megabits (Mbps) 
 
-   1998 - 2 Megabits (Mbps) 
 
-   2,000,000 bits per second 
 
    This generation set the standards for most of the wireless technology, web browsing, email, video downloading, picture sharing and other Smartphone technology
 
-- 4G 
+- **4G**    2011 - 100 Megabits (Mbps) 
 
-   2011 - 100 Megabits (Mbps) 
 
-   100,000,000 bits per second 
 
    4G is a very different technology as compared to 3G and was made possible practically only because of the advancements in the technology in the last 10 years. 
    Its purpose is to provide high speed , high quality and high capacity to users while improving security and lower the cost of voice and data services, multimedia and internet.
 
 
-- 5G 
+- **5G**    20 Gigabits Per Second (Gbps)?
+
 
    .. image:: _static/5Glogo.png   
 
@@ -85,7 +80,6 @@ Already, some early 5G deployments need a makeover because of standards changing
 
 
 
-   20 Gigabits Per Second (Gbps)?
 
    5G is not just an upgrade from 4G. 
 

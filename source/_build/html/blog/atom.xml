@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk</title>
-  <updated>2020-10-10T05:01:52.309998+00:00</updated>
+  <updated>2020-10-11T20:47:00.330582+00:00</updated>
   <link href="https://techtalkjohn.com"/>
   <link href="https://techtalkjohn.com/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
@@ -25,15 +25,6 @@
     <published>2020-10-06T00:00:00-07:00</published>
   </entry>
   <entry>
-    <id>https://techtalkjohn.com/5g.html</id>
-    <title>5G</title>
-    <updated>2020-10-07T00:00:00-07:00</updated>
-    <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
-</content>
-    <link href="https://techtalkjohn.com/5g.html" rel="alternate"/>
-    <published>2020-10-07T00:00:00-07:00</published>
-  </entry>
-  <entry>
     <id>https://techtalkjohn.com/wasm.html</id>
     <title>WebAssembly</title>
     <updated>2020-10-09T00:00:00-07:00</updated>
@@ -41,5 +32,14 @@
 </content>
     <link href="https://techtalkjohn.com/wasm.html" rel="alternate"/>
     <published>2020-10-09T00:00:00-07:00</published>
+  </entry>
+  <entry>
+    <id>https://techtalkjohn.com/5g.html</id>
+    <title>5G</title>
+    <updated>2020-10-11T00:00:00-07:00</updated>
+    <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
+</content>
+    <link href="https://techtalkjohn.com/5g.html" rel="alternate"/>
+    <published>2020-10-11T00:00:00-07:00</published>
   </entry>
 </feed>
