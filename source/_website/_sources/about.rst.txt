@@ -1,7 +1,7 @@
 About 
 ======
 
-Since the early days of the Internet, I have built blogs from scratch or used blog technology du jour. This blog is built using `aBlog <https://ablog.readthedocs.io>`_. It is a `sphinx <https://www.sphinx-doc.org/en/master/index.html>`_  extension. Sphinx uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`_  as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating using the `Docutils <http://docutils.sourceforge.net/>`_ suit,  
+Since the early days of the Internet, I have built blogs from scratch or used blog technology du jour. This blog is built using `aBlog <https://ablog.readthedocs.io>`_. It is a `Sphinx <https://www.sphinx-doc.org/en/master/index.html>`_  extension. Sphinx uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`_  as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating using the `Docutils <http://docutils.sourceforge.net/>`_ suit,  
 
 The Internet has been a part my life since its early days. I have decades of hands-on experience with some of the ever changing Electronic, Internet, and Software technologies, and a passion pursuing what’s new and improved within the these industries
 

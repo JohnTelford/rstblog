@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk</title>
-  <updated>2020-10-12T06:12:20.016641+00:00</updated>
+  <updated>2020-10-12T23:04:02.156767+00:00</updated>
   <link href="https://techtalkjohn.com"/>
   <link href="https://techtalkjohn.com/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
@@ -36,10 +36,10 @@
   <entry>
     <id>https://techtalkjohn.com/5g/</id>
     <title>5G</title>
-    <updated>2020-10-11T00:00:00-07:00</updated>
+    <updated>2020-10-12T00:00:00-07:00</updated>
     <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
 </content>
     <link href="https://techtalkjohn.com/5g/" rel="alternate"/>
-    <published>2020-10-11T00:00:00-07:00</published>
+    <published>2020-10-12T00:00:00-07:00</published>
   </entry>
 </feed>

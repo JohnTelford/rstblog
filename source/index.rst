@@ -11,10 +11,10 @@ Tech Talk Blog
 
    - Version: |version| - |today|
    - Work in Progress
-   - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, I find in  frequent panning of the Computer, Electronic, and Internet info rubble
+   - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, from frequent panning of the Computer, Electronic, and Internet info rubble
 
 
-Since the early days of the Internet, I have built blogs and web sites from scratch or used  technology du jour. This blog is built using `aBlog <https://ablog.readthedocs.io>`_. It is a `sphinx <https://www.sphinx-doc.org/en/master/index.html>`_  extension. Sphinx uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`_  as its markup language
+Since the early days of the Internet, I have built blogs and web sites from scratch or used  technology du jour. This blog is built using `aBlog <https://ablog.readthedocs.io>`_. It is a `Sphinx <https://www.sphinx-doc.org/en/master/index.html>`_  extension. Sphinx uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`_  as its markup language
 
 
 Most recent posts:
