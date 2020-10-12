@@ -89,7 +89,11 @@ There is a lot of excitement over 5G’s promise of blazing speeds, lower latenc
 Three Kinds of 5G
 :::::::::::::::::
 
-5G is an umbrella term. There are 3 different kinds of 5G
+Blazing speeds require using higher-frequency radio waves than 4G cellular networks
+
+5G is an umbrella term. 
+
+There are 3 different kinds of 5G
 
 Low-Band
 ........

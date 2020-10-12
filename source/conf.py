@@ -196,7 +196,7 @@ author = u'John Telford'
 # built documents.
 #
 # The short X.Y version.
-version = '0.1.7'
+version = '0.1.8'
 # The full version, including alpha/beta/rc tags.
 release = ''
 
