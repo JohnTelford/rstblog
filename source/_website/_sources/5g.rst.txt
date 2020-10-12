@@ -29,16 +29,20 @@ Then it will slide down to the Trough of Disillusionment until it it begins to c
 Wi-Fi Generations
 -----------------
 
-5G  is the very fast wireless speed  your smartphone may one day connects to the Internet. 
-This graphic show the *G* generations tree. 
+5G is the fifth generation cellular network technology. It is the very fast wireless speed  your smartphone may some day connects to the Internet. 
 
 .. note:: 
 
-   5G is not just an upgrade from 4G. 5G require new phone hardware and software, new towers with new hardware, and big changes to  phone and network designs. 
+   5G is very different than 4G and older wireless standards. It’s extremely fast, require new phone hardware and software,  new towers with new hardware, and big changes to  phone and network designs. 
 
 The core of new technologies are industry standards. 
 It seems that 5G standards are in a state of flux. 
 Already, some early 5G deployments need a makeover because of standards changing.
+
+
+This graphic show the *G* generations tree. 
+
+.. figure:: _static/5g-speedometer.jpg
 
 
 - **1G**  1982 - 2.4 kbps
@@ -70,10 +74,7 @@ Already, some early 5G deployments need a makeover because of standards changing
 
 
 
-   5G is not just an upgrade from 4G. 
-
-   5G is a generation currently under development , that's intended to improve on 4G. 
-   5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
+   5G is not just an upgrade from 4G. 5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
 
 
 5G Stark Realities
@@ -86,6 +87,11 @@ Already, some early 5G deployments need a makeover because of standards changing
 
 
 There is a lot of excitement over 5G’s promise of blazing speeds, lower latencies, and more robust security than 3G and 4G networks. However, the fact that each network operator has its own timetable for rolling out the next-generation cellular technology means early 5G will actually be a patchwork of 2G, 3G, 4G, and 5G networks. The upshot: For the next few years, 5G won’t be able to fully deliver on its promises.
+
+Three Kinds of 5G
+:::::::::::::::::
+
+5G is an umbrella term. There are 3 different kinds of 5G
 
 
 
