@@ -26,18 +26,15 @@ The fiction is quickly climbing up the slope to  the Peak of Inflated Expectatio
 Then it will slide down to the Trough of Disillusionment until it it begins to climb the Slope of Enlightenment and becomes reality.
 
 
-Wi-Fi Generations
------------------
-
-5G is the fifth generation cellular network technology. It is the very fast wireless speed  your smartphone may some day connects to the Internet. 
+Cellular Networks Generations
+-----------------------------
 
 .. note:: 
 
-   5G is very different than 4G and older wireless standards. It’s extremely fast, require new phone hardware and software,  new towers with new hardware, and big changes to  phone and network designs. 
+   5G is the fifth generation technology standard for broadband cellular networks. It very different than 4G and older wireless standards. It’s extremely fast, require new phone hardware and software,  new towers with new hardware, and big changes to  phone and network designs. 
+ 
+   It is the very fast  speed  your smartphone may some day use to connect to the Internet. 
 
-The core of new technologies are industry standards. 
-It seems that 5G standards are in a state of flux. 
-Already, some early 5G deployments need a makeover because of standards changing.
 
 
 This graphic show the *G* generations tree. 
@@ -68,11 +65,9 @@ This graphic show the *G* generations tree.
    Its purpose is to provide high speed , high quality and high capacity to users while improving security and lower the cost of voice and data services, multimedia and internet.
 
 
-- **5G**    20 Gbps?
+- **5G**    10 Gbps?
 
-   .. image:: _static/5Glogo.png   
-
-
+   .. image:: _static/5Glogo-2.png   
 
    5G is not just an upgrade from 4G. 5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
 
@@ -81,18 +76,40 @@ This graphic show the *G* generations tree.
 ------------------
 
 
-   .. figure:: _static/5Giceberg.png
+.. figure:: _static/5Giceberg.png
+
+   5G Iceberg
+
+The core of new technologies are industry standards. The 5G standards are in a state of flux. Some early 5G deployments are doing makeovers because  standard  changes
+
+There is a lot of excitement over 5G’s promise of blazing speeds, lower latencies, and more robust security than 3G and 4G networks. However,  network operator have their own timetable for rolling out the next-generation cellular technology. 5G will  be a patchwork of 2G, 3G, 4G, and 5G networks. The upshot: For the next few years, 5G won’t be able to fully deliver on its promises.
 
 
-
-
-There is a lot of excitement over 5G’s promise of blazing speeds, lower latencies, and more robust security than 3G and 4G networks. However, the fact that each network operator has its own timetable for rolling out the next-generation cellular technology means early 5G will actually be a patchwork of 2G, 3G, 4G, and 5G networks. The upshot: For the next few years, 5G won’t be able to fully deliver on its promises.
 
 Three Kinds of 5G
 :::::::::::::::::
 
 5G is an umbrella term. There are 3 different kinds of 5G
 
+Low-Band
+........
+
+Low-band 5G uses a similar frequency range to current 4G cellphones, 600-700 MHz, giving download speeds a little higher than 4G: 30-250 megabits per second (Mbit/s).[3] Low-band cell towers will have a range and coverage area similar to current 4G towers.
+
+Medium-Band
+...........
+
+Mid-band 5G uses microwaves of 2.5-3.7 GHz, currently allowing speeds of 100-900 Mbit/s, with each cell tower providing service up to several miles in radius.
+
+High-Band
+.........
+
+High-band 5G currently uses frequencies of 25–39 GHz, near the bottom of the millimeter wave band, although higher frequencies may be used in the future. It often achieves download speeds of a gigabit per second (Gbit/s), comparable to cable internet.
+
+
+.. figure:: _static/5Gspectrum.png
+
+   5G Spectrum
 
 
 Some Dreams of 5G
