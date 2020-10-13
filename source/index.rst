@@ -51,7 +51,7 @@ Tech Talk
    contact
 
 
-.. rubric:: Footnotes
+.. rubric:: Footnotes:
 
 .. [#] aBlog - https://ablog.readthedocs.io
 

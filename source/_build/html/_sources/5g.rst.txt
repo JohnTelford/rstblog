@@ -157,7 +157,7 @@ Some Dreams of 5G
 Some day, some dreams may come true
 
 
-.. rubric:: Footnotes
+.. rubric:: Footnotes:
 
 .. [#] The National Press Club - https://www.fcc.gov/news-events/events/2016/06/future-wireless-vision-us-leadership-5g-world
 
