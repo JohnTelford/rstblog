@@ -1,29 +1,46 @@
-.. rstBlog documentation master file, created by
-   sphinx-quickstart on Sun Sep 20 14:16:38 2020.
+
+.. Tech Talk index file, created by `ablog start` on Thu Sep 24 22:50:31 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-   
-rstBlog
-=======
 
-.. note:: 
-    - Work in Progress!
-    - An opinionated technology blog about technologies of interest to me
-    - Sep 21, 2020
+Tech Talk Blog
+==============
 
-The blog is named *rstBlog* because it is  using *rst* `reStructuredText  <http://docutils.sourceforge.net/rst.html>`_ technology
 
-Checkout the sites `Home Page <https://pwadev.com>`_
+.. note::
 
+   - Version: |version| - |today|
+   - Work in Progress
+   - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, from frequent panning of the Computer, Electronic, and Internet info rubble
+
+
+Since the early days of the Internet, I have built blogs and web sites from scratch or used  technology du jour. This blog is built using `aBlog <https://ablog.readthedocs.io>`_. It is a `Sphinx <https://www.sphinx-doc.org/en/master/index.html>`_  extension. Sphinx uses `reStructuredText <http://docutils.sourceforge.net/rst.html>`_  as its markup language
+
+
+Most recent posts:
+------------------
+
+
+.. postlist:: 5
+
+
+.. `toctree` directive, below, contains list of non-post `.rst` files.
+   This is how they appear in Navigation sidebar. Note that directive
+   also contains `:hidden:` option so that it is not included inside the page.
+
+<<<<<<< HEAD
 <<<<<<< HEAD
 Tech Talk
 =========
 =======
 >>>>>>> master
+=======
+   Posts are excluded from this directive so that they aren't double listed
+   in the sidebar both under Navigation and Recent Posts.
+>>>>>>> master
 
 .. toctree::
-   :maxdepth: 1
-   :caption: Contents:
+   :hidden:
 
 
 * :ref:`genindex`
@@ -31,5 +48,4 @@ Tech Talk
 * :ref:`search`
 =======
    about
-   building
-   
+   contact

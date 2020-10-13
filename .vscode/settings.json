@@ -1,4 +1,4 @@
 {
-    "restructuredtext.confPath": "${workspaceFolder}/source",
-    "git.autofetch": true
+    "git.autofetch": true,
+    "restructuredtext.confPath": "${workspaceFolder}/source"
 }
