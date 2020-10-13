@@ -124,7 +124,7 @@ High-Band
 High-band 5G currently uses frequencies near the bottom of the millimeter wave band, although higher frequencies may be used in the future. It may achieves download speeds of a gigabit per second (Gbit/s), comparable to cable internet.
 
 
-.. figure:: _static/5Gspectrum.png
+.. figure:: _static/5Gproposed.png
    :width: 75%
 
    5G Spectrum
