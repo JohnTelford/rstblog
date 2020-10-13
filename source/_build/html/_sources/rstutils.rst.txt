@@ -21,6 +21,15 @@ Some command line  utilities I find useful are:
 
 - ``rg`` ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern
 
+- ``bat`` - like cat
+
+- ``starskip`` - shell prompt
+    # ~/.zshrc
+    eval "$(starship init zsh)
+
+- ``exa`` - ls
+
+- ``procs`` - ps
 
 Rust Reference
 --------------
