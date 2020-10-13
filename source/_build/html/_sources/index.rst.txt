@@ -32,14 +32,9 @@ Most recent posts:
 
 .. toctree::
    :hidden:
-   
+
    about
    contact
-
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
 
 .. rubric:: Footnotes:
