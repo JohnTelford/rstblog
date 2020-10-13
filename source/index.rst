@@ -27,26 +27,12 @@ Most recent posts:
 .. `toctree` directive, below, contains list of non-post `.rst` files.
    This is how they appear in Navigation sidebar. Note that directive
    also contains `:hidden:` option so that it is not included inside the page.
-
-<<<<<<< HEAD
-<<<<<<< HEAD
-Tech Talk
-=========
-=======
->>>>>>> master
-=======
    Posts are excluded from this directive so that they aren't double listed
    in the sidebar both under Navigation and Recent Posts.
->>>>>>> master
 
 .. toctree::
    :hidden:
 
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-=======
    about
    contact
 

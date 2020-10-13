@@ -133,7 +133,7 @@ High-band 5G currently uses frequencies near the bottom of the millimeter wave b
 Bottom Line
 ...........
 
-This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way.” `The National Press Club <https://www.fcc.gov/news-events/events/2016/06/future-wireless-vision-us-leadership-5g-world>`_ may sum up contemporary 5G reality.
+This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way." [#]_ may sum up contemporary 5G reality.
 
 So, the bottom line is will consumers  jump on the rising **Inflated Expectation** part of the 5G :ref:`Hype Cycle`  only to experience falling to the **Trough of Disillusionment**, or wait for the **Slope of Enlightenment** when they understand the technology better and how it may benefit them?
 
@@ -141,7 +141,7 @@ So, the bottom line is will consumers  jump on the rising **Inflated Expectation
 Some Dreams of 5G
 -----------------
 
-`5G Dreams <https://www.lifewire.com/5g-use-cases-4261046>`_
+5G Dreams [#]_
 
 
 
@@ -155,4 +155,13 @@ Some Dreams of 5G
    - etc..
 
 Some day, some dreams may come true
+
+
+.. rubric:: Footnotes:
+
+.. [#] The National Press Club - https://www.fcc.gov/news-events/events/2016/06/future-wireless-vision-us-leadership-5g-world
+
+.. [#] 5G Dreams - https://www.lifewire.com/5g-use-cases-4261046
+
+
 
