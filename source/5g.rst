@@ -2,7 +2,7 @@
 5G
 ==
 
-.. post:: Oct 12, 2020
+.. post:: Oct 14, 2020
    :tags: 5G, hype
    :category:
 
@@ -71,19 +71,30 @@ Cellular Networks Generations
    5G is not just an upgrade from 4G. 5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
 
 
+Recent 5G News
+--------------
+
+**Oct 14, 2020**
+
+   - Apple released iPhone 12 optimized for 5G  supporting more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available or reliable.
+
+   - Verizon announced nationwide 5G coverage. It will not make much difference for most consumers buying 5G enabled phones 
+
+.. figure:: _static/verizoncoverage.png
+   :width: 75%
+
+
 5G Stark Realities
 ------------------
-
 
 .. figure:: _static/5Giceberg.png
    :width: 75%
 
    5G Iceberg
 
+
 5G Technology Goals
 :::::::::::::::::::
-
-
 
 The core of new networking technologies are build using industry standards. The 5G standards are in a state of flux. Some early 5G deployments are doing makeovers because  standard  changes
 
@@ -94,34 +105,17 @@ There is a lot of excitement over 5G’s promise of blazing speeds, lower latenc
 
    5G Technology Goals
 
-Realizing these  three 5G technology goals is more complex than previous generations. Some of the necessary technology may not exist or be experimental, fewer engineers and technicians have the necessary skills, high cost of deployment, consumers may balk at higher product and service costs, and limited coverage
+Realizing these  three 5G technology goals is more complex than previous generations. Some of the necessary technology may not exist or be experimental, fewer engineers and technicians have the necessary skills, and high cost of deployment. Consumers may balk at higher product and service costs, and limited coverage
 
 
-Three Kinds of 5G
-:::::::::::::::::
+5G Spectrum
+:::::::::::
 
 Blazing speeds require using higher-frequency radio waves than 4G cellular networks
 
-5G is an umbrella term. There are now 3 bands of radio-frequency spectrum of 5G, and likely additional  bands at higher frequencies will be added. 
+5G is an umbrella term. There are two 5G radio-frequency spectrum bands, 5G sub-6GHz and 5G mmWave. Additional  bands at higher frequencies may be added. 
 
 The capability of of 5G signals penetrating atmospheric, automobiles, buildings, glass, pockets, purses, vegetation, walls, and other obstacles, decreases at higher bands and frequencies
-
-
-
-Low-Band
-........
-
-Low-band 5G uses a similar frequency range to current 4G cellphones giving download speeds a little higher than 4G. Low-band 5G cell towers will have a range and coverage area similar to current 4G towers.
-
-Medium-Band
-...........
-
-Mid-band 5G uses microwaves frequencies, currently allowing speeds of 100-900 Mbit/s, with each cell tower providing service up to several miles in radius.
-
-High-Band
-.........
-
-High-band 5G currently uses frequencies near the bottom of the millimeter wave band, although higher frequencies may be used in the future. It may achieves download speeds of a gigabit per second (Gbit/s), comparable to cable internet.
 
 
 .. figure:: _static/5Gproposed.png
@@ -130,8 +124,23 @@ High-band 5G currently uses frequencies near the bottom of the millimeter wave b
    5G Spectrum
 
 
-Bottom Line
+
+5G sub-6GHz
 ...........
+
+Is a a similar frequency range to current 4G cellphones giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers. 
+
+5G also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
+
+
+5G mmWave
+.........
+
+The 5G millimeter wave band is the 5G holy grail. It may achieves download speeds of a gigabit per second comparable to cable internet.
+
+
+Bottom Line
+-----------
 
 This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way." [#]_ may sum up contemporary 5G reality.
 
