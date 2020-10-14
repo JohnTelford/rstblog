@@ -15,7 +15,7 @@ The cellular industry is saying 2020 was  going to be the year of 5G.
 It will change the way we live, work, learn, play, and improve our global society. 
 Whoopee!
 
-Oh wait, some in the industry are now saying maybe time in the  2020s. 
+Oh wait, some in the industry are now saying maybe sometime in the  2020s. 
 
 Hype is the space between fact and fiction. 
 The Hype storm that 5G is generating, is awesome. 
@@ -71,17 +71,35 @@ Cellular Networks Generations
    5G is not just an upgrade from 4G. 5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
 
 
-Recent 5G News
---------------
+5G News
+-------
 
-**Oct 14, 2020**
 
-   - Apple released iPhone 12 optimized for 5G  supporting more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available.
+----
 
-   - Verizon announced nationwide 5G coverage. It will not make much difference for most consumers buying 5G enabled phones 
+   - Apple released iPhone 12 optimized for 5G  supporting more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available or reliable.
+
+----
+
+   - 5G will finally get its U.S. closeup with the expected debut of Apple Inc’s next iPhone on Tuesday. But the blazing speeds promised will not materialize for most people...Using the next iPhone or any 5G enabled device on today’s network, however, will be “like having a Ferrari ... but using it in your local village and you can’t drive to up to 200 miles per hour, simply because the roads cannot maintain those speeds,” explained Boris Metodiev, associate director of research firm Strategy Analytics... Just know what to expect, Blaber added. “There’s going to be relatively little that you can do on a 5G iPhone you can’t do on a 4G iPhone today.” [#]_
+
+----
+
+   - Verizon announced nationwide 5G coverage. "Nationwide" doesn't mean it's available everywhere. It will not make much difference for most consumers buying 5G enabled phones 
 
 .. figure:: _static/verizoncoverage.png
    :width: 75%
+   
+   Verizon Coverage
+
+
+
+
+----
+
+   - AT&T’s current 5G is slower than 4G in nearly every city tested [#]_
+
+----
 
 
 5G Stark Realities
@@ -142,7 +160,7 @@ The 5G millimeter wave band is the 5G holy grail. It may achieves download speed
 Bottom Line
 -----------
 
-This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way." [#]_ may sum up contemporary 5G reality.
+This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way."  may sum up contemporary 5G reality. [#]_
 
 So, the bottom line is will consumers  jump on the rising **Inflated Expectation** part of the 5G :ref:`Hype Cycle`  only to experience falling to the **Trough of Disillusionment**, or wait for the **Slope of Enlightenment** when they understand the technology better and how it may benefit them?
 
@@ -165,12 +183,15 @@ Some Dreams of 5G
 
 Some day, some dreams may come true
 
+....
 
 .. rubric:: Footnotes:
+
+.. [#] Analysis: New Apple 'iPhone 12' to offer 5G speeds U.S. networks can't deliver - https://www.reuters.com/article/apple-iphone-5g-analysis-idUSKBN26X18Q
+
+.. [#] AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag - https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/
 
 .. [#] The National Press Club - https://www.fcc.gov/news-events/events/2016/06/future-wireless-vision-us-leadership-5g-world
 
 .. [#] 5G Dreams - https://www.lifewire.com/5g-use-cases-4261046
-
-
 
