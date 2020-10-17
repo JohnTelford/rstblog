@@ -2,7 +2,7 @@
 Surveillance Capitalism
 =======================
 
-.. post:: Oct 15, 2020
+.. post:: 
    :tags:
    :category:
 

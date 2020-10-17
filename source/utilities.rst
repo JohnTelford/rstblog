@@ -1,5 +1,6 @@
-Rust Utilities
-==============
+Utilities
+=========
+
 
 .. note::
    
@@ -10,8 +11,11 @@ Rust Utilities
    :tags: utils, Rust
    :category: Utilities
 
+Rust
+----
 
-Some command line  utilities I find useful are:
+
+Some command line  rust utilities I find useful are:
 
 - ``fd`` is a simple, fast and user-friendly alternative to ``find``
 
@@ -32,8 +36,16 @@ Some command line  utilities I find useful are:
 - ``procs`` - ps
 
 Rust Reference
---------------
+::::::::::::::
 
    - `Index of  Rust libraries and Applications <https://lib.rs/>`_
 
    - `Rust Programming Language <https://www.rust-lang.org/>`_
+
+   
+GitHub
+------
+
+List repos
+
+``curl -u johntelford:aa2e4c66aaf200660a88dd59b00f5d9c8d8e1e87 https://api.github.com/user/repos | grep html_url``

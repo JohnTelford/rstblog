@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Surveillance Capitalism &#8212; Tech Talk  documentation</title>
+    <title>Utilities &#8212; Tech Talk  documentation</title>
     <link rel="stylesheet" href="_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
     <script id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
@@ -46,34 +46,46 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="surveillance-capitalism">
-<h1>Surveillance Capitalism<a class="headerlink" href="#surveillance-capitalism" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="utilities">
+<h1>Utilities<a class="headerlink" href="#utilities" title="Permalink to this headline">¶</a></h1>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>Oct 17, 2020</p>
 <ul class="simple">
 <li><p>Work in Progress</p></li>
 </ul>
 </div>
-<div class="section" id="you-are-being-tracked">
-<h2>You are Being Tracked<a class="headerlink" href="#you-are-being-tracked" title="Permalink to this headline">¶</a></h2>
-<p>Many Internet services and devices are tracking you, and using your information for manipulation, and sell it on the Surveillance Capitalism Supply Chain.</p>
-</div>
-<div class="section" id="wild-west">
-<h2>Wild West<a class="headerlink" href="#wild-west" title="Permalink to this headline">¶</a></h2>
-<p>Once upon a time, wire tapping your telephone required a court order. Surveillance Capitalism is the wild west where law and order are very rare.
-The corner stone of some hugh empires like Amazon, Facebook and Google business plans seem to be built on Surveillance Capitalism. Every transaction you have with them, may be exploited, packaged, and sold on the Surveillance Capitalism supply chain.</p>
-</div>
-<div class="section" id="what-is-surveillance-capitalism">
-<h2>What is Surveillance Capitalism?<a class="headerlink" href="#what-is-surveillance-capitalism" title="Permalink to this headline">¶</a></h2>
-<p>“A new economic order that claims human experience as free raw material for hidden commercial practices of extraction, prediction, and sales.</p>
-<p>Google invented and perfected surveillance capitalism in much the same way that a century ago General Motors invented and perfected managerial capitalism. Google was the pioneer of surveillance capitalism in thought and practice, the deep pocket for research and development, and the trailblazer in experimentation and implementation, but it is no longer the only actor on this path. Surveillance capitalism quickly spread to Facebook and later to Microsoft. Evidence suggests that Amazon has veered in this direction, and it is a constant challenge to Apple, both as an external threat and as a source of internal debate and conflict.” <a class="footnote-reference brackets" href="#id2" id="id1">1</a></p>
-<p>Footnotes:</p>
-<dl class="footnote brackets">
-<dt class="label" id="id2"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
-<dd><p><a class="reference external" href="https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/ref=sr_1_1?keywords=Surveillance+Capitalism&amp;qid=1567621568&amp;s=gateway&amp;sr=8-1">The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power</a> Copyright ©2019 by Shoshana Zuboff, Professor at Harvard Business School.</p>
+<div class="section" id="rust">
+<h2>Rust<a class="headerlink" href="#rust" title="Permalink to this headline">¶</a></h2>
+<p>Some command line  rust utilities I find useful are:</p>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">fd</span></code> is a simple, fast and user-friendly alternative to <code class="docutils literal notranslate"><span class="pre">find</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">gitui</span></code> is a blazing fast terminal client for <code class="docutils literal notranslate"><span class="pre">git</span></code> written in Rust</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">rip</span></code> a safe and ergonomic alternative to <code class="docutils literal notranslate"><span class="pre">rm</span></code></p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">rg</span></code> ripgrep is a line-oriented search tool that recursively searches your current directory for a regex pattern</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">bat</span></code> - like cat</p></li>
+<li><dl class="simple">
+<dt><code class="docutils literal notranslate"><span class="pre">starskip</span></code> - shell prompt</dt><dd><p># ~/.zshrc
+eval “$(starship init zsh)</p>
 </dd>
 </dl>
+</li>
+<li><p><code class="docutils literal notranslate"><span class="pre">exa</span></code> - ls</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">procs</span></code> - ps</p></li>
+</ul>
+<div class="section" id="rust-reference">
+<h3>Rust Reference<a class="headerlink" href="#rust-reference" title="Permalink to this headline">¶</a></h3>
+<blockquote>
+<div><ul class="simple">
+<li><p><a class="reference external" href="https://lib.rs/">Index of  Rust libraries and Applications</a></p></li>
+<li><p><a class="reference external" href="https://www.rust-lang.org/">Rust Programming Language</a></p></li>
+</ul>
+</div></blockquote>
+</div>
+</div>
+<div class="section" id="github">
+<h2>GitHub<a class="headerlink" href="#github" title="Permalink to this headline">¶</a></h2>
+<p>List repos</p>
+<p><code class="docutils literal notranslate"><span class="pre">curl</span> <span class="pre">-u</span> <span class="pre">johntelford:aa2e4c66aaf200660a88dd59b00f5d9c8d8e1e87</span> <span class="pre">https://api.github.com/user/repos</span> <span class="pre">|</span> <span class="pre">grep</span> <span class="pre">html_url</span></code></p>
 </div>
 </div>
 
@@ -82,7 +94,42 @@ The corner stone of some hugh empires like Amazon, Facebook and Google business 
     
 
 
+<div class="section">
+  <span style="float: left;">
   
+  </span>
+  <span>&nbsp;</span>
+  <span style="float: right;">
+  
+  Next: 
+  <a href="sphinx.html">
+    Sphinx
+    
+  </a>
+  
+  </span>
+</div>
+
+  
+  
+    <div class="section">
+    <h2>Comments</h2>
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = 'tech-talk-blog';
+        var disqus_identifier = '/utilities/';
+        var disqus_title = 'Utilities';
+        var disqus_url = 'https://techtalkjohn.com/utilities';
+
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
   
   </div>
 
@@ -106,8 +153,8 @@ The corner stone of some hugh empires like Amazon, Facebook and Google business 
   
   <h2>
   
-    
-     Draft 
+  
+    Sep 26, 2020
   
   </h2>
 
@@ -121,8 +168,44 @@ The corner stone of some hugh empires like Amazon, Facebook and Google business 
   
 
   
+  <li id="category"><span>Category:</span>
+    
+      
+      <a href="blog/category/utilities.html">Utilities</a>
+      
+    </li>
+  
 
   
+  <li id="tags"><span>Tags:
+      </span>
+    
+      
+      <a href="blog/tag/utils.html">utils</a>
+      
+    
+      
+      <a href="blog/tag/rust.html">Rust</a>
+      
+    </li>
+  
+  
+  <li id="comments">
+    <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'tech-talk-blog'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+    }());
+    </script>
+    
+    <a href="#disqus_thread" data-disqus-identifier="/utilities/"> Comments</a>
+  </li>
   
   </ul>
 <h3>Navigation</h3>
@@ -141,8 +224,6 @@ The corner stone of some hugh empires like Amazon, Facebook and Google business 
       <li><a href="wasm.html">09 October - WebAssembly</a></li>
     
       <li><a href="sphinx.html">06 October - Sphinx</a></li>
-    
-      <li><a href="rstutils.html">26 September - Rust Utilities</a></li>
     
   </ul>
 
@@ -261,7 +342,7 @@ The corner stone of some hugh empires like Amazon, Facebook and Google business 
       &amp; <a href="https://github.com/bitprophet/alabaster">Alabaster 0.7.12</a>
       
       |
-      <a href="_sources/surveillance.rst.txt"
+      <a href="_sources/utilities.rst.txt"
           rel="nofollow">Page source</a>
     </div>
 
