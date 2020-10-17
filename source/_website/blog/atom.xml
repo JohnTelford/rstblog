@@ -2,19 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk</title>
-  <updated>2020-10-14T22:52:34.942586+00:00</updated>
+  <updated>2020-10-17T23:20:20.381303+00:00</updated>
   <link href="https://techtalkjohn.com"/>
   <link href="https://techtalkjohn.com/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
-  <entry>
-    <id>https://techtalkjohn.com/rstutils/</id>
-    <title>Rust Utilities</title>
-    <updated>2020-09-26T00:00:00-07:00</updated>
-    <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
-</content>
-    <link href="https://techtalkjohn.com/rstutils/" rel="alternate"/>
-    <published>2020-09-26T00:00:00-07:00</published>
-  </entry>
   <entry>
     <id>https://techtalkjohn.com/sphinx/</id>
     <title>Sphinx</title>

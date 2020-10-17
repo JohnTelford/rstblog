@@ -7,8 +7,8 @@ Utilities
    - Work in Progress
    
 
-.. post:: Sep 26, 2020
-   :tags: utils, Rust
+.. post:: 
+   :tags: utils, rust, github
    :category: Utilities
 
 Rust

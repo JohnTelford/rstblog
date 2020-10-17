@@ -1,0 +1,42 @@
+
+Surveillance Capitalism
+=======================
+
+.. post:: 
+   :tags:
+   :category:
+
+.. note:: |today|
+   
+   - Work in Progress
+
+You are Being Tracked
+---------------------
+
+Many Internet services and devices are tracking you, and using your information for manipulation, and sell it on the Surveillance Capitalism Supply Chain.
+
+
+Wild West
+---------
+
+Once upon a time, wire tapping your telephone required a court order. Surveillance Capitalism is the wild west where law and order are very rare.
+The corner stone of some hugh empires like Amazon, Facebook and Google business plans seem to be built on Surveillance Capitalism. Every transaction you have with them, may be exploited, packaged, and sold on the Surveillance Capitalism supply chain.
+
+
+What is Surveillance Capitalism?
+--------------------------------
+
+"A new economic order that claims human experience as free raw material for hidden commercial practices of extraction, prediction, and sales.
+
+Google invented and perfected surveillance capitalism in much the same way that a century ago General Motors invented and perfected managerial capitalism. Google was the pioneer of surveillance capitalism in thought and practice, the deep pocket for research and development, and the trailblazer in experimentation and implementation, but it is no longer the only actor on this path. Surveillance capitalism quickly spread to Facebook and later to Microsoft. Evidence suggests that Amazon has veered in this direction, and it is a constant challenge to Apple, both as an external threat and as a source of internal debate and conflict." [#]_
+
+
+
+
+
+
+
+
+Footnotes:
+
+.. [#]   `The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power <https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/ref=sr_1_1?keywords=Surveillance+Capitalism&qid=1567621568&s=gateway&sr=8-1>`_ Copyright ©2019 by Shoshana Zuboff, Professor at Harvard Business School.

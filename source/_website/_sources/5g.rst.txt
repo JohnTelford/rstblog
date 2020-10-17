@@ -74,16 +74,15 @@ Cellular Networks Generations
 5G News
 -------
 
-
-----
+-----
 
    - Apple released iPhone 12 optimized for 5G  supporting more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available or reliable.
 
-----
+-----
 
    - 5G will finally get its U.S. closeup with the expected debut of Apple Inc’s next iPhone on Tuesday. But the blazing speeds promised will not materialize for most people...Using the next iPhone or any 5G enabled device on today’s network, however, will be “like having a Ferrari ... but using it in your local village and you can’t drive to up to 200 miles per hour, simply because the roads cannot maintain those speeds,” explained Boris Metodiev, associate director of research firm Strategy Analytics... Just know what to expect, Blaber added. “There’s going to be relatively little that you can do on a 5G iPhone you can’t do on a 4G iPhone today.” [#]_
 
-----
+-----
 
    - Verizon announced nationwide 5G coverage. "Nationwide" doesn't mean it's available everywhere. It will not make much difference for most consumers buying 5G enabled phones 
 
@@ -95,11 +94,11 @@ Cellular Networks Generations
 
 
 
-----
+-----
 
    - AT&T’s current 5G is slower than 4G in nearly every city tested [#]_
 
-----
+-----
 
 
 5G Stark Realities
@@ -195,3 +194,4 @@ Some day, some dreams may come true
 
 .. [#] 5G Dreams - https://www.lifewire.com/5g-use-cases-4261046
 
+-----
