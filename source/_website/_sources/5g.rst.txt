@@ -166,7 +166,7 @@ The 5G millimeter wave band is the 5G holy grail. It may achieves download speed
 Bottom Line
 -----------
 
-This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way."  may sum up contemporary 5G reality. [#]_
+This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way."  may sum up contemporary 5G reality.
 
 So, the bottom line is will consumers  jump on the rising **Inflated Expectation** part of the 5G :ref:`Hype Cycle`  only to experience falling to the **Trough of Disillusionment**, or wait for the **Slope of Enlightenment** when they understand the technology better and how it may benefit them?
 
@@ -174,24 +174,16 @@ So, the bottom line is will consumers  jump on the rising **Inflated Expectation
 5G Dreams
 ---------
 
-`Some Dreams of 5G < https://www.lifewire.com/5g-use-cases-4261046>`_
+`Some Dreams of 5 <https://www.lifewire.com/5g-use-cases-4261046>`_
 
    - Broadband Internet Everywhere
    - Smart Vehicles, Cities, and Factories
-   - Immersive AR and VR
    - Everything Is On-Demand
+   - Immersive AR and VR
    - Smarter Healthcare
    - Better Law Enforcement
    - Peer-to-Peer (P2P) Communication
    - etc..
 
 Some day, some dreams may come true
-
-
-.. rubric:: Footnotes:
-
-
-
-
-.. [#] 5G Dreams - https://www.lifewire.com/5g-use-cases-4261046
 

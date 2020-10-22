@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk</title>
-  <updated>2020-10-22T23:12:53.791662+00:00</updated>
-  <link href="https://techtalkjohn.com"/>
-  <link href="https://techtalkjohn.com/blog/atom.xml"/>
+  <updated>2020-10-22T23:36:10.838716+00:00</updated>
+  <link href="&quot;https://techtalkjohn.com&quot;"/>
+  <link href="&quot;https://techtalkjohn.com&quot;/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
   <entry>
-    <id>https://techtalkjohn.com/sphinx/</id>
+    <id>"https://techtalkjohn.com"/sphinx/</id>
     <title>Sphinx</title>
     <updated>2020-10-06T00:00:00-07:00</updated>
     <content type="html">&lt;p&gt;Oct 6, 2020&lt;/p&gt;
 </content>
-    <link href="https://techtalkjohn.com/sphinx/" rel="alternate"/>
+    <link href="&quot;https://techtalkjohn.com&quot;/sphinx/" rel="alternate"/>
     <published>2020-10-06T00:00:00-07:00</published>
   </entry>
   <entry>
-    <id>https://techtalkjohn.com/wasm/</id>
+    <id>"https://techtalkjohn.com"/wasm/</id>
     <title>WebAssembly</title>
     <updated>2020-10-09T00:00:00-07:00</updated>
     <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
 </content>
-    <link href="https://techtalkjohn.com/wasm/" rel="alternate"/>
+    <link href="&quot;https://techtalkjohn.com&quot;/wasm/" rel="alternate"/>
     <published>2020-10-09T00:00:00-07:00</published>
   </entry>
   <entry>
-    <id>https://techtalkjohn.com/5g/</id>
+    <id>"https://techtalkjohn.com"/5g/</id>
     <title>5G</title>
     <updated>2020-10-22T00:00:00-07:00</updated>
     <content type="html">&lt;p&gt;Updated&lt;/p&gt;
 </content>
-    <link href="https://techtalkjohn.com/5g/" rel="alternate"/>
+    <link href="&quot;https://techtalkjohn.com&quot;/5g/" rel="alternate"/>
     <published>2020-10-22T00:00:00-07:00</published>
   </entry>
 </feed>
