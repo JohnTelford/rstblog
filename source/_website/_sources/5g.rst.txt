@@ -2,12 +2,12 @@
 5G
 ==
 
-.. post:: Oct 14, 2020
+.. post:: Oct 22, 2020
    :tags: 5G, hype
    :category:
 
 .. note::
-   
+   - Updated
    - Work in Progress
 
 
@@ -74,17 +74,23 @@ Cellular Networks Generations
 5G News
 -------
 
------
+- Apple New iPhone 12 Optimized for 5G
 
-   - Apple released iPhone 12 optimized for 5G  supporting more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available or reliable.
+   It supports more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available or reliable.
 
------
+   The blazing speeds promised will not materialize for most people using the  iPhone 12 or any 5G enabled device on today’s network. It is like trying to drive a Ferrari   200 miles per hour on roads  not build for that speeds. 
+   
+   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting millimeter-wave.
 
-   - 5G will finally get its U.S. closeup with the expected debut of Apple Inc’s next iPhone on Tuesday. But the blazing speeds promised will not materialize for most people...Using the next iPhone or any 5G enabled device on today’s network, however, will be “like having a Ferrari ... but using it in your local village and you can’t drive to up to 200 miles per hour, simply because the roads cannot maintain those speeds,” explained Boris Metodiev, associate director of research firm Strategy Analytics... Just know what to expect, Blaber added. “There’s going to be relatively little that you can do on a 5G iPhone you can’t do on a 4G iPhone today.” [#]_
 
------
+- Apple's 5G Move Payoff
 
-   - Verizon announced nationwide 5G coverage. "Nationwide" doesn't mean it's available everywhere. It will not make much difference for most consumers buying 5G enabled phones 
+   As 5G hype leaves the :ref:`Hype Cycle` Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize 5G mmWave.
+
+
+- Verizon Announces "Nationwide" 5G Coverage
+
+   "Nationwide" doesn't mean it's available everywhere. It will not make much difference for most consumers buying 5G enabled phones 
 
 .. figure:: _static/verizoncoverage.png
    :width: 75%
@@ -92,13 +98,14 @@ Cellular Networks Generations
    Verizon Coverage
 
 
+- `Verizon's 5G Hype <https://www.verizon.com/about/news/fastest-5g-network-world-just-got-bigger-and-better>`_ 
+   More than 200 million people in 1,800 cities around the US have been mislead. `The National Advertising Review Board <https://www.fiercewireless.com/operators/verizon-told-to-stop-most-powerful-5g-claim>`_ told Verizon in September it had to stop claiming it's building "the most powerful 5G experience for America." 
 
 
------
+- AT&T’s  5G is Slow 
 
-   - AT&T’s current 5G is slower than 4G in nearly every city tested [#]_
+   AT&T’s 4G is faster in nearly every city tested by `PCMag <https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/>`_
 
------
 
 
 5G Stark Realities
@@ -164,12 +171,10 @@ This quote from Tom Wheeler a former chairman of the Federal Communications Comm
 So, the bottom line is will consumers  jump on the rising **Inflated Expectation** part of the 5G :ref:`Hype Cycle`  only to experience falling to the **Trough of Disillusionment**, or wait for the **Slope of Enlightenment** when they understand the technology better and how it may benefit them?
 
 
-Some Dreams of 5G
------------------
+5G Dreams
+---------
 
-5G Dreams [#]_
-
-
+`Some Dreams of 5G < https://www.lifewire.com/5g-use-cases-4261046>`_
 
    - Broadband Internet Everywhere
    - Smart Vehicles, Cities, and Factories
@@ -182,16 +187,11 @@ Some Dreams of 5G
 
 Some day, some dreams may come true
 
-....
 
 .. rubric:: Footnotes:
 
-.. [#] Analysis: New Apple 'iPhone 12' to offer 5G speeds U.S. networks can't deliver - https://www.reuters.com/article/apple-iphone-5g-analysis-idUSKBN26X18Q
 
-.. [#] AT&T’s current 5G is slower than 4G in nearly every city tested by PCMag - https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/
 
-.. [#] The National Press Club - https://www.fcc.gov/news-events/events/2016/06/future-wireless-vision-us-leadership-5g-world
 
 .. [#] 5G Dreams - https://www.lifewire.com/5g-use-cases-4261046
 
------

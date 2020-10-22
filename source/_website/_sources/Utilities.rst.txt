@@ -43,9 +43,3 @@ Rust Reference
    - `Rust Programming Language <https://www.rust-lang.org/>`_
 
    
-GitHub
-------
-
-List repos
-
-``curl -u johntelford:aa2e4c66aaf200660a88dd59b00f5d9c8d8e1e87 https://api.github.com/user/repos | grep html_url``
