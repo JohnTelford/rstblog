@@ -78,14 +78,14 @@ Cellular Networks Generations
 
    It supports more 5G bands than any other smartphone, with all models connecting to both millimeter-wave and sub-6GHz spectrum, and a  data mode that switches  iPhone from 5G to LTE when 5G speeds aren't available or reliable.
 
-   The blazing speeds promised will not materialize for most people using the  iPhone 12 or any 5G enabled device on today’s network. It is like trying to drive a Ferrari   200 miles per hour on roads  not build for that speeds. 
+   The blazing speeds promised will not materialize for most people using the  iPhone 12 or any 5G enabled device on today’s network. It is like trying to drive a Ferrari   200 miles per hour on roads  not built for that speeds. 
    
-   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting millimeter-wave.
+   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting :ref:`5G millimeter`:.
 
 
 - Apple's 5G Move Payoff
 
-   As 5G hype leaves the :ref:`Hype Cycle` Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize 5G mmWave.
+   As 5G hype leaves the :ref:`Hype Cycle` Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize :ref:`5G millimeter`:.
 
 
 - Verizon Announces "Nationwide" 5G Coverage
@@ -120,7 +120,7 @@ Cellular Networks Generations
 5G Technology Goals
 :::::::::::::::::::
 
-The core of new networking technologies are build using industry standards. The 5G standards are in a state of flux. Some early 5G deployments are doing makeovers because  standard  changes
+The core of new networking technologies are built using industry standards. The 5G standards are in a state of flux. Some early 5G deployments are doing makeovers because  standard  changes
 
 There is a lot of excitement over 5G’s promise of blazing speeds, lower latencies, and more robust security than 3G and 4G networks. However,  network operator have their own timetable for rolling out the next-generation cellular technology. 5G will  be a patchwork of 3G, 4G, and 5G networks.  For the next few years, 5G won’t be able to fully deliver on its promises.
 
@@ -157,16 +157,16 @@ Is a a similar frequency range to current 4G cellphones giving download speeds a
 5G also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
 
 
-5G mmWave
-.........
+5G millimeter
+-------------
 
-The 5G millimeter wave band is the 5G holy grail. It may achieves download speeds of a gigabit per second comparable to cable internet.
+The 5G millimeter wave band is the 5G holy grail. It may achieve download speeds of a gigabit per second comparable to cable internet.
 
 
 Bottom Line
 -----------
 
-This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way."  may sum up contemporary 5G reality. [#]_
+This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way."  may sum up contemporary 5G reality.
 
 So, the bottom line is will consumers  jump on the rising **Inflated Expectation** part of the 5G :ref:`Hype Cycle`  only to experience falling to the **Trough of Disillusionment**, or wait for the **Slope of Enlightenment** when they understand the technology better and how it may benefit them?
 
@@ -186,12 +186,4 @@ So, the bottom line is will consumers  jump on the rising **Inflated Expectation
    - etc..
 
 Some day, some dreams may come true
-
-
-.. rubric:: Footnotes:
-
-
-
-
-.. [#] 5G Dreams - https://www.lifewire.com/5g-use-cases-4261046
 

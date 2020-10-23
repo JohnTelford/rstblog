@@ -9,3 +9,5 @@ I am an Electronics and Software Engineer specializing in web technology archite
 | John Telford
 | Portland, Oregon
 | john at johntelford dot com
+
+Checkout my `Web Technology Consulting <https://johntelford.com>`_ web site
