@@ -2,7 +2,7 @@
 5G
 ==
 
-.. post:: Oct 22, 2020
+.. post:: Nov 19, 2020
    :tags: 5G, hype
    :category:
 
@@ -80,7 +80,7 @@ Cellular Networks Generations
 
    The blazing speeds promised will not materialize for most people using the  iPhone 12 or any 5G enabled device on today’s network. It is like trying to drive a Ferrari   200 miles per hour on roads  not built for that speeds. 
    
-   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting :ref:`5G millimeter`:.
+   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting :ref:`5G Millimeter`:.
 
 
 - Apple's 5G Move Payoff
@@ -147,7 +147,12 @@ The capability of of 5G signals penetrating atmospheric, automobiles, buildings,
 
    5G Spectrum
 
+5G millimeter
+.............
 
+This is sometimes called the **High Band**
+
+The 5G millimeter wave band is the 5G holy grail. It may achieve download speeds of a gigabit per second comparable to cable internet. It works best in the outdoors
 
 5G sub-6GHz
 ...........
@@ -156,11 +161,6 @@ Is a a similar frequency range to current 4G cellphones giving download speeds a
 
 5G also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
 
-
-5G millimeter
--------------
-
-The 5G millimeter wave band is the 5G holy grail. It may achieve download speeds of a gigabit per second comparable to cable internet.
 
 
 Bottom Line
