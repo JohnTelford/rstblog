@@ -142,25 +142,24 @@ Blazing speeds require using higher-frequency radio waves than 4G cellular netwo
 The capability of of 5G signals penetrating atmospheric, automobiles, buildings, glass, pockets, purses, vegetation, walls, and other obstacles, decreases at higher bands and frequencies
 
 
-.. figure:: _static/5Gproposed.png
+.. figure:: _static/4G_5G_frequencies.png
    :width: 75%
 
    5G Spectrum
 
-5G millimeter
-.............
 
-This is sometimes called the **High Band**
+- 5G low-band: Everything under 1 GHz
+
+   Is a similar frequency range to current 4G cellphones giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers. 5G low-band also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
+
+
+- 5G mid-band: From 1 GHz to 6 GHz
+
+The new mid-band spectrum will improve data rates significantly
+
+- 5G high-band: From 24 GHz upwards, also known as millimeter wave (mmWave)
 
 The 5G millimeter wave band is the 5G holy grail. It may achieve download speeds of a gigabit per second comparable to cable internet. It works best in the outdoors
-
-5G sub-6GHz
-...........
-
-Is a a similar frequency range to current 4G cellphones giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers. 
-
-5G also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
-
 
 
 Bottom Line
