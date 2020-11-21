@@ -2,7 +2,7 @@
 5G
 ==
 
-.. post:: Nov 19, 2020
+.. post:: Nov 21, 2020
    :tags: 5G, hype
    :category:
 
@@ -35,7 +35,7 @@ Cellular Networks Generations
  
    It is the very fast  speed  your smartphone may some day use to connect to the Internet. 
 
-.. figure:: _static/5g-speedometer.jpg
+..  figure:: _static/5g-speedometer.jpg
 
    *G* Generations
 
@@ -56,19 +56,20 @@ Cellular Networks Generations
    This generation set the standards for most of the wireless technology, web browsing, email, video downloading, picture sharing and other Smartphone technology
 
 
-- **4G**    2011 - 100 Mbps
+- **4G**    2011 - 100 Mbps - A While to Retirement
 
    4G is a very different technology as compared to 3G and was made possible practically only because of the advancements in the technology in the last 10 years. 
    Its purpose is to provide high speed , high quality and high capacity to users while improving security and lower the cost of voice and data services, multimedia and internet.
 
 
-- **5G**    10 Gbps?
+- **5G**    10 Gbps? - Technology is Being Developed
 
-   .. figure:: _static/5Glogo-2.png   
-      :width: 50%
+..  figure:: _static/5Glogo.png   
+   :width: 50%
 
+   5G Logo
 
-   5G is not just an upgrade from 4G. 5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
+5G is not just an upgrade from 4G. 5G promises significantly faster data rates, higher connection density, much lower latency, among other improvements.
 
 
 5G News
@@ -80,19 +81,19 @@ Cellular Networks Generations
 
    The blazing speeds promised will not materialize for most people using the  iPhone 12 or any 5G enabled device on today’s network. It is like trying to drive a Ferrari   200 miles per hour on roads  not built for that speeds. 
    
-   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting :ref:`5G Millimeter`:.
+   There is not much one can do using a 5G iPhone that can not be done on a 4G iPhone, until the 5G network is up and running, and supporting :ref:`5G Spectrum`:.
 
 
 - Apple's 5G Move Payoff
 
-   As 5G hype leaves the :ref:`Hype Cycle` Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize :ref:`5G millimeter`:.
+   As 5G hype leaves the :ref:`Hype Cycle` Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize :ref:`5G Spectrum`:.
 
 
 - Verizon Announces "Nationwide" 5G Coverage
 
    "Nationwide" doesn't mean it's available everywhere. It will not make much difference for most consumers buying 5G enabled phones 
 
-.. figure:: _static/verizoncoverage.png
+..  figure:: _static/verizoncoverage.png
    :width: 75%
    
    Verizon Coverage
@@ -111,7 +112,7 @@ Cellular Networks Generations
 5G Stark Realities
 ------------------
 
-.. figure:: _static/5Giceberg.png
+..  figure:: _static/5Giceberg.png
    :width: 75%
 
    5G Iceberg
@@ -124,7 +125,7 @@ The core of new networking technologies are built using industry standards. The 
 
 There is a lot of excitement over 5G’s promise of blazing speeds, lower latencies, and more robust security than 3G and 4G networks. However,  network operator have their own timetable for rolling out the next-generation cellular technology. 5G will  be a patchwork of 3G, 4G, and 5G networks.  For the next few years, 5G won’t be able to fully deliver on its promises.
 
-.. figure:: _static/5GTechnologyScope.png
+..  figure:: _static/5GTechnologyScope.png
    :width: 75%
 
    5G Technology Goals
@@ -137,45 +138,51 @@ Realizing these  three 5G technology goals is more complex than previous generat
 
 Blazing speeds require using higher-frequency radio waves than 4G cellular networks
 
-5G is an umbrella term. There are two 5G radio-frequency spectrum bands, 5G sub-6GHz and 5G mmWave. Additional  bands at higher frequencies may be added. 
+5G is an umbrella term. There are three 5G radio-frequency spectrum bands, 5G Low-band, 5G Mid-band, and 5G High-band. Additional  bands at higher frequencies may be added. 
 
 The capability of of 5G signals penetrating atmospheric, automobiles, buildings, glass, pockets, purses, vegetation, walls, and other obstacles, decreases at higher bands and frequencies
 
 
-.. figure:: _static/4G_5G_frequencies.png
+..  figure:: _static/4G_5G_frequencies.png
    :width: 75%
 
    5G Spectrum
 
 
-- 5G low-band: Everything under 1 GHz
+- **5G Low-band**
 
-   Is a a similar frequency range to current 4G cellphones giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers. 5G low-band also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
-
-
-- 5G mid-band: From 1 GHz to 6 GHz
-
-- 5G high-band: From 24 GHz upwards, also known as millimeter wave (mmWave)
-
-   The 5G millimeter wave band is the 5G holy grail. It may achieve download speeds of a gigabit per second comparable to cable internet. It works best in the outdoors
+   Is  similar frequency range to current 4G cellphones, giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers. 5G low-band also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
 
 
-5G sub-6GHz
-...........
+- **5G Mid-band**
+
+   The new mid-band spectrum  will improve data rates significantly over 4G, but with 55% less signal coverage than 5G Low-band
+
+- **5G High-band**
+
+   The 5G High-band or the 5G millimeter wave band, is the 5G Holy Grail. It may achieve download speeds of a gigabit per second comparable to cable internet. It works best in the outdoors
+
+Coverage
+::::::::
+..  figure:: _static/frequency_vs_coverage_area.png
+
+   Frequency vs Coverage Area
 
 
+- **Low-band**
 
-5G millimeter
-.............
+   The 5G Low-band  signal has about the same coverage as 4G
 
-This is sometimes called the **High Band**
+- **Mid-band**
 
-The 5G millimeter wave band is the 5G holy grail. It may achieve download speeds of a gigabit per second comparable to cable internet. It works best in the outdoors
+   The 5G Mid-band has about 55% less coverage than the 5G Low-band
 
+- **High-band**
 
+   The 5G High-band has about 2% coverage of the 5G Low-band, and about 45% of the 5G Mid-band
 
 Bottom Line
------------
+:::::::::::
 
 This quote from Tom Wheeler a former chairman of the Federal Communications Commission  "If anyone tells you they know the details of what 5G will deliver, walk the other way."  may sum up contemporary 5G reality.
 
@@ -183,7 +190,7 @@ So, the bottom line is will consumers  jump on the rising **Inflated Expectation
 
 
 5G Dreams
----------
+:::::::::
 
 `Some Dreams of 5G <https://www.lifewire.com/5g-use-cases-4261046>`_
 
