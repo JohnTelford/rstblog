@@ -56,9 +56,9 @@ Cellular Networks Generations
    This generation set the standards for most of the wireless technology, web browsing, email, video downloading, picture sharing and other Smartphone technology
 
 
-- **4G**    2011 - 100 Mbps - A While to Retirement
+- **4G**    2011 - 100 Mbps - A While Until Retirement
 
-   4G is a very different technology as compared to 3G and was made possible practically only because of the advancements in the technology in the last 10 years. 
+   4G is a very different technology than 3G and was made possible practically only because of the advancements in the technology in the last 10 years. 
    Its purpose is to provide high speed , high quality and high capacity to users while improving security and lower the cost of voice and data services, multimedia and internet.
 
 
@@ -140,7 +140,7 @@ Blazing speeds require using higher-frequency radio waves than 4G cellular netwo
 
 5G is an umbrella term. There are three 5G radio-frequency spectrum bands, 5G Low-band, 5G Mid-band, and 5G High-band. Additional  bands at higher frequencies may be added. 
 
-The capability of of 5G signals penetrating atmospheric, automobiles, buildings, glass, pockets, purses, vegetation, walls, and other obstacles, decreases at higher bands and frequencies
+The capability of of 5G signals penetrating automobiles, weather conditions, buildings, glass, pockets, purses, vegetation, walls, and other obstacles, decreases at higher bands and frequencies.
 
 
 ..  figure:: _static/4G_5G_frequencies.png
@@ -151,16 +151,16 @@ The capability of of 5G signals penetrating atmospheric, automobiles, buildings,
 
 - **5G Low-band**
 
-   Is  similar frequency range to current 4G cellphones, giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers. 5G low-band also uses microwaves frequencies with each cell tower providing service up to several miles in radius.
+   Is  similar frequency range to current 4G cellphones, giving download speeds a little higher than 4G. Cell towers  have a range and coverage area similar to current 4G towers.  Obsticales that plague 4G penetration also plague 5G
 
 
 - **5G Mid-band**
 
-   The new mid-band spectrum  will improve data rates significantly over 4G, but with 55% less signal coverage than 5G Low-band
+   The new mid-band spectrum  will improve data rates significantly over 4G, but with 55% less signal coverage than 5G Low-band.  There are more obsticales in the 5G Mid-band and they are more effective
 
 - **5G High-band**
 
-   The 5G High-band or the 5G millimeter wave band, is the 5G Holy Grail. It may achieve download speeds of a gigabit per second comparable to cable internet. It works best in the outdoors
+   The 5G High-band or the 5G millimeter wave band, is the 5G Holy Grail. It may achieve download speeds of a gigabit per second comparable to cable internet. There are more obsticales in the 5G High-band and they are more effective
 
 Coverage
 ::::::::
@@ -179,7 +179,7 @@ Coverage
 
 - **High-band**
 
-   The 5G High-band has about 2% coverage of the 5G Low-band, and about 45% of the 5G Mid-band
+   The 5G High-band has about 2% coverage of the 5G Low-band, and about 45% of the 5G Mid-band. 
 
 Bottom Line
 :::::::::::
