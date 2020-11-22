@@ -140,6 +140,12 @@ Blazing speeds require using higher-frequency radio waves than 4G cellular netwo
 
 5G is an umbrella term. There are three 5G radio-frequency spectrum bands, 5G Low-band, 5G Mid-band, and 5G High-band. Additional  bands at higher frequencies may be added. 
 
+.. figure:: _static/5g_layer_cake.png
+
+   5G Layers
+   
+
+
 The capability of of 5G signals penetrating automobiles, weather conditions, buildings, glass, pockets, purses, vegetation, walls, and other obstacles, decreases at higher bands and frequencies.
 
 
@@ -160,7 +166,7 @@ The capability of of 5G signals penetrating automobiles, weather conditions, bui
 
 - **5G High-band**
 
-   The 5G High-band or the 5G millimeter wave band, is the 5G Holy Grail. It may achieve download speeds of a gigabit per second comparable to cable internet. There are more obsticales in the 5G High-band and they are more effective
+   The 5G High-band or the 5 millimeter wave band, is the 5G Holy Grail. It may achieve download speeds of a gigabit per second comparable to cable internet. There are  more effective obsticales in the 5G High-band
 
 Coverage
 ::::::::
