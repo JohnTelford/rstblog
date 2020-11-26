@@ -2,6 +2,8 @@
 About
 =====
 
+*Home page* :ref:`Tech Talk Blog`
+
 Since the early days of the Internet, I have built blogs from scratch or used blog technology du jour. This blog is built using aBlog [#]_. It is a Sphinx [#]_  extension. Sphinx uses reStructuredText [#]_ as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating using the Docutils [#]_ suit,  
 
 The Internet has been a part my life since its early days. I have decades of hands-on experience with some of the ever changing Electronic, Internet, and Software technologies, and a passion pursuing what’s new and improved within the these industries
@@ -49,3 +51,5 @@ The Hype Cycle points of interest are:
 .. [#] reStructuredText - http://docutils.sourceforge.net/rst.html
 
 .. [#] DocUtils - http://docutils.sourceforge.net
+
+*Home page* :ref:`Tech Talk Blog`

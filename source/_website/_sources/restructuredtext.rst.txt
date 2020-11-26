@@ -10,5 +10,4 @@ reStructuredText
    
    - Work in Progress
 
-
-It is a Markup, not a Markdown
+*Home page* :ref:`Tech Talk Blog`

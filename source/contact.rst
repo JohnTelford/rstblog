@@ -11,3 +11,5 @@ I am an Electronics and Software Engineer specializing in web technology archite
 | john at johntelford dot com
 
 Checkout my `Web Technology Consulting <https://johntelford.com>`_ web site
+
+*Home page* :ref:`Tech Talk Blog`

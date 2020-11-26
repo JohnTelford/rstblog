@@ -12,6 +12,8 @@ Sphinx
    - Work in Progress
 
 
+*Home page* :ref:`Tech Talk Blog`
+
 Sphinx is a  web site generator framework that abstracts  Markdown or reStructuredText  text editing language, producing HTML, CSS, and JavaScript  for browsers to render web sites using builtin interpreters.
 
 This blog is an example of using Sphinx and reStructuredText
@@ -43,3 +45,5 @@ Sphinx Reference
    - `CSS <https://www.w3schools.com/css/default.asp>`_
 
    - `JavaScript <https://www.w3schools.com/js/default.asp>`_
+
+*Home page* :ref:`Tech Talk Blog`

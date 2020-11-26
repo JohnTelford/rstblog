@@ -12,7 +12,7 @@ WebAssembly
    - Work in Progress
 
 
-
+*Home page* :ref:`Tech Talk Blog`
 
 WebAssembly technology is joining  HTML, CSS, and JavaScript running in web browsers to render web pages. Wasm brings performance and power. It can work with JavaScripts expressiveness and flexibility.
 
@@ -31,4 +31,4 @@ WebAssembly - org
 
 `Webassembly - org <https://research.mozilla.org/>`_ "WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications."
 
-
+*Home page* :ref:`Tech Talk Blog`

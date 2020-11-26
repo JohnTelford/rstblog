@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk</title>
-  <updated>2020-11-23T23:03:27.139862+00:00</updated>
+  <updated>2020-11-26T01:00:29.313182+00:00</updated>
   <link href="&quot;https://techtalkjohn.com&quot;"/>
   <link href="&quot;https://techtalkjohn.com&quot;/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
@@ -32,5 +32,14 @@
 </content>
     <link href="&quot;https://techtalkjohn.com&quot;/5g/" rel="alternate"/>
     <published>2020-11-21T00:00:00-08:00</published>
+  </entry>
+  <entry>
+    <id>"https://techtalkjohn.com"/surveillance/</id>
+    <title>Surveillance Capitalism</title>
+    <updated>2020-11-25T00:00:00-08:00</updated>
+    <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
+</content>
+    <link href="&quot;https://techtalkjohn.com&quot;/surveillance/" rel="alternate"/>
+    <published>2020-11-25T00:00:00-08:00</published>
   </entry>
 </feed>
