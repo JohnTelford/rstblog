@@ -12,6 +12,9 @@ Surveillance Capitalism
 
 *Home page* :ref:`Tech Talk Blog`
 
+-----
+
+
 You are Being Tracked
 ---------------------
 
@@ -119,7 +122,9 @@ Like most of us, I think I have little defence against the Surveillance Capitali
 
 *When will the governments sworn to protect us step up to the challenge? Probably never. It is  subservient to the The Corporate State*
 
-Footnotes:
+-----
+
+.. rubric:: Footnotes:
 
 .. [#]   *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power*,  Copyright ©2019 by Shoshana Zuboff, Professor *emerita* at Harvard Business School https://www.amazon.com/Age-Surveillance-Capitalism-Future-Frontier/dp/1610395697/ref=sr_1_1?keywords=Surveillance+Capitalism&qid=1567621568&s=gateway&sr=8-1_ 
 

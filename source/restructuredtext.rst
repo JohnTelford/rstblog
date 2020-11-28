@@ -10,4 +10,7 @@ reStructuredText
    
    - Work in Progress
 
+-----
+
 *Home page* :ref:`Tech Talk Blog`
+

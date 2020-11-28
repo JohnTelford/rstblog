@@ -1,6 +1,10 @@
 Contact
 -------
 
+*Home page* :ref:`Tech Talk Blog`
+
+----
+
 I am an Electronics and Software Engineer specializing in web technology architecture, development, deployment, and maintenance
 
 .. image:: _static/mugshot.png

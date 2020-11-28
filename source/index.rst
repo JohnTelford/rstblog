@@ -12,6 +12,7 @@ Tech Talk Blog
    - Work in Progress
    - Blog posts are opinionated, uplifting or depressing,  facts or fiction technologies, from frequent panning of the Computer, Electronic, and Internet info rubble
 
+-----
 
 Since the early days of the Internet, I have built blogs and web sites from scratch or used  technology du jour. This blog is built using aBlog [#]_. It is a Sphinx [#]_  extension. Sphinx uses reStructuredText [#]_  as its markup language
 
@@ -22,6 +23,7 @@ Most recent posts:
 
 .. postlist:: 5
 
+-----
 
 .. `toctree` directive, below, contains list of non-post `.rst` files.
    This is how they appear in Navigation sidebar. Note that directive

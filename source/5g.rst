@@ -12,6 +12,8 @@
 
 *Home page* :ref:`Tech Talk Blog`
 
+-----
+
 The cellular industry is saying 2020 was  going to be the year of 5G. 
 It will change the way we live, work, learn, play, and improve our global society. 
 Whoopee!
@@ -213,5 +215,11 @@ So, the bottom line is will consumers  jump on the rising **Inflated Expectation
    - etc..
 
 Some day, some dreams may come true
+
+
+-----
+
+.. rubric:: Footnotes:
+
 
 *Home page* :ref:`Tech Talk Blog`
