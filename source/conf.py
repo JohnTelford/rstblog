@@ -257,6 +257,7 @@ html_theme = 'alabaster'
 html_theme_options = {
     'github_button': False,
     'note_bg' : '#ccffcc',
+    'description' : 'Checking out what’s new or not, what’s real or not, or what’s new and improved',
 }
 
 # Add any paths that contain custom themes here, relative to this directory.
