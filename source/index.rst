@@ -17,11 +17,11 @@ Tech Talk Blog
 Since the early days of the Internet, I have built blogs and web sites from scratch or used  technology du jour. This blog is built using aBlog [#]_. It is a Sphinx [#]_  extension. Sphinx uses reStructuredText [#]_  as its markup language
 
 
-Most recent posts:
+Recent Posts:
 ------------------
 
 
-.. postlist:: 5
+.. postlist:: 10
 
 -----
 
