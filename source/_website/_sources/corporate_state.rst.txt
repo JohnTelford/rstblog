@@ -14,7 +14,7 @@ Corporate State
 
 -----
 
-The Corporate State is the state being subordinate to corporations.
+The Corporate State is the state being subordinate to corporations. Fascism is corporations being subordinate to the state
 
 Charles Reich wrote in his The Greening of America [#]_ book that the words from the Gettysburg Address by Abraham Lincoln ".. government of the people, by the people, and for the people.." have been perverted to ".. government of The Corporate State, by The Corporate State, and for The Corporate State, at the expense of the people.."
 

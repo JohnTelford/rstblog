@@ -18,7 +18,7 @@ Hype Cycle
 ----------
 
 
-The Hype Cycle helps separate reality from fiction.
+The Hype Cycle [#]_ helps separate reality from fiction.
 
 .. figure:: _static/HypeCycle.png
     :width: 75%
@@ -47,12 +47,14 @@ The Hype Cycle points of interest are:
 
 .. rubric:: Footnotes:
 
-.. [#] aBlog - https://ablog.readthedocs.io
+.. [#] aBlog: https://ablog.readthedocs.io
 
-.. [#] Sphinx - https://www.sphinx-doc.org/en/master/index.html
+.. [#] Sphinx: https://www.sphinx-doc.org/en/master/index.html
 
-.. [#] reStructuredText - http://docutils.sourceforge.net/rst.html
+.. [#] reStructuredText: http://docutils.sourceforge.net/rst.html
 
-.. [#] DocUtils - http://docutils.sourceforge.net
+.. [#] DocUtils: http://docutils.sourceforge.net
+
+.. [#] Hype Cycle: https://www.gartner.com/en/research/methodologies/gartner-hype-cycle
 
 *Home page* :ref:`Tech Talk Blog`

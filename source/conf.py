@@ -196,7 +196,7 @@ author = u'John Telford'
 # built documents.
 #
 # The short X.Y version.
-version = '0.2.13'
+version = '0.2.14'
 # The full version, including alpha/beta/rc tags.
 release = ''
 
@@ -257,6 +257,7 @@ html_theme = 'alabaster'
 html_theme_options = {
     'github_button': False,
     'note_bg' : '#ccffcc',
+    'description' : 'Checking out what’s new or not, what’s real or not, or what’s new and improved',
 }
 
 # Add any paths that contain custom themes here, relative to this directory.

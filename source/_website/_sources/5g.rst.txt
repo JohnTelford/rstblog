@@ -91,7 +91,7 @@ Cellular Networks Generations
 
 - Apple's 5G Move Payoff
 
-   As 5G hype leaves the :ref:`Hype Cycle` Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize :ref:`5G Spectrum`:.
+   As 5G hype leaves the Hype Cycle [#]_ Trough of Disillusionment and begins ascending  the Slope of Enlightenment where consumers begin to understand the technology better and how it may benefit them, I think Apple's 5G move will pay off big time. By then, Apple will have multiple technology iterations able to effectively  utilize :ref:`5G Spectrum`:.
 
 
 - Verizon Announces "Nationwide" 5G Coverage
@@ -105,12 +105,12 @@ Cellular Networks Generations
 
 
 - `Verizon's 5G Hype <https://www.verizon.com/about/news/fastest-5g-network-world-just-got-bigger-and-better>`_ 
-   More than 200 million people in 1,800 cities around the US have been mislead. `The National Advertising Review Board <https://www.fiercewireless.com/operators/verizon-told-to-stop-most-powerful-5g-claim>`_ told Verizon in September it had to stop claiming it's building "the most powerful 5G experience for America." 
+   More than 200 million people in 1,800 cities around the US have been mislead. The National Advertising Review Board [#]_ told Verizon in September it had to stop claiming it's building "the most powerful 5G experience for America." 
 
 
 - AT&T’s  5G is Slow 
 
-   AT&T’s 4G is faster in nearly every city tested by `PCMag <https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/>`_
+   AT&T’s 4G is faster in nearly every city tested by PCMag [#]_
 
 
 
@@ -221,5 +221,10 @@ Some day, some dreams may come true
 
 .. rubric:: Footnotes:
 
+.. [#] Hype Cycle: https://www.gartner.com/en/research/methodologies/gartner-hype-cycle
+
+.. [#] The National Advertising Review Board: https://www.fiercewireless.com/operators/verizon-told-to-stop-most-powerful-5g-claim
+
+.. [#] PCMag :https://arstechnica.com/information-technology/2020/09/atts-current-5g-is-slower-than-4g-in-nearly-every-city-tested-by-pcmag/
 
 *Home page* :ref:`Tech Talk Blog`
