@@ -7,7 +7,7 @@ Sphinx
    :category: reStructuredText
 
 
-.. note:: Oct 6, 2020
+.. note:: Nov 28, 2020
    
    - Work in Progress
 
@@ -16,7 +16,7 @@ Sphinx
 
 -----
 
-Sphinx is a  web site generator framework that abstracts  Markdown or reStructuredText  text editing language, producing HTML, CSS, and JavaScript  for browsers to render web sites using builtin interpreters.
+Sphinx [#]_ is a  web site generator framework that abstracts  Markdown [#]_ or reStructuredText [#]_  text editing language, producing HTML [#]_ , CSS [#]_, and JavaScript [#]_ for browsers to render web sites using builtin interpreters.
 
 This blog is an example of using Sphinx and reStructuredText
 
@@ -37,15 +37,18 @@ HTML (the Hypertext Markup Language) and CSS (Cascading Style Sheets) are two of
 
 -----
 
-Sphinx Reference
-----------------
+.. rubric:: Footnotes:
 
-   - `Sphinx <https://www.sphinx-doc.org/en/master/index.html>`_
+.. [#] Sphinx: https://www.sphinx-doc.org/en/master/index.html
 
-   - `HTML <https://www.w3schools.com/html/default.asp>`_
+.. [#] Markdown: https://daringfireball.net/projects/markdown
 
-   - `CSS <https://www.w3schools.com/css/default.asp>`_
+.. [#] reStructuredText: http://docutils.sourceforge.net/rst.html
 
-   - `JavaScript <https://www.w3schools.com/js/default.asp>`_
+.. [#]  HTML: https://www.w3schools.com/html/default.asp
+
+.. [#] CSS : https://www.w3schools.com/css/default.asp
+
+.. [#] JavaScript: https://www.w3schools.com/js/default.asp
 
 *Home page* :ref:`Tech Talk Blog`
