@@ -34,9 +34,9 @@ Defects are Lurking
 
 I like the idea of being delivered to my destination by AVs (Autonomous Vehicles). Spoiler Alert: There are no AVs for sale. Some of the vendors AVs hype storms are quieting down as reality set in. See Autonomous Vehicles
 
-My primary concern about AVs is developing, testing, and updating hardware and software. Defects in computer systems is the way of things. They are lurking in AVs hardware, component, and software stacks that are built with various vendor products. The stacks are evolving. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
+My primary concern about AVs is developing, testing, and updating onboard hardware and software. Defects in computer systems is the way of things. They are lurking in AVs hardware, component, and software stacks that are built with various vendor products. The stacks are evolving. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
 
-Updating may be AVs Achilles heal. Use Microsoft as an example. It has been developing, selling, and updating software since 1975. It became market-dominate in selling PC compatible operating systems and office software suite markets. Microsoft updates still stumble sometimes. Some PC users and business IT staff dread Update Tuesday because of the collateral damage updates may inflict [#]_ , but users and staff do not usually die.
+Updating may be AVs Achilles heal. Use Microsoft as an example. It has been developing, selling, and updating software since 1975. The complexity of Microsoft ecosystem is less than AVs. It became market-dominate in selling PC compatible operating systems and office software suite markets. Microsoft updates still stumble sometimes. Some PC users and business IT staff dread Update Tuesday because of the collateral damage updates may inflict [#]_ , but users and staff do not usually die.
 
 
 AVs
@@ -123,6 +123,21 @@ Automated Driving System (“system”) Monitors The Driving Environment
 
    Some concept AV are Level 5 AV – including the Volkswagen Group SeDriC (SElf-DRIving Car), above, and the Audi AIcon concept."
 
+Testla's Elon Musk
+------------------
+
+   I think Tesla CEO Elon Musk is the best salesman, ringmaster, poster child, con, etc.. for the AV Hype Cycle [#]_. Some of Musk’s statements are contrary to the SAE J3016 Six Levels Of Driving Automation.
+
+First Look at Tesla’s Holiday Software Update [#]_
+
+   All cool stuff, but it is a drop in a bucket for what is needed within 2 years to transform Tesla products from Level 2 Partial Assistance to Level 5 Full Automation AV, that was talked up April 15, 2019 Musk predicts Tesla will achieve full autonomy by 2020.
+
+   Level 5 Full Automation require the vehicle does not need human control. It doesn’t need to have pedals, or a steering wheel, or a human onboard. It is fully automated and can do all driving tasks on any road, under any conditions, whether there’s a human on board or not.
+
+   And, it must deal the with the unpredictable, stupid, and crazy things human drivers and pedestrians do.
+
+   "The latest 2019.40.50 firmware gives Tesla owners with Autopilot Hardware 3 a preview of its upcoming Full-Self driving capabilities, showcasing an increasingly more intelligent Tesla Neural Net that’s able to identify and display multiple traffic lights, stop signs, and even garbage cans on the vehicle’s touchscreen. The ability to render road markings and vehicle types, in detail, on-screen paves the way for Tesla’s upcoming “feature complete” Full-Self Driving suite."
+
 
 -----
 
@@ -133,5 +148,10 @@ Automated Driving System (“system”) Monitors The Driving Environment
 .. [#] Microsoft Windows update problem 2020: https://duckduckgo.com/?q=microsoft+update+problem+2020&t=osx&ia=web
 
 .. [#] SAE International: https://www.sae.org/misc/pdfs/automated_driving.pdf
+
+.. [#] Hype Cycle: https://www.gartner.com/en/research/methodologies/gartner-hype-cycle
+
+.. [#] First Look at Tesla’s Holiday Software Update: https://www.teslarati.com/tesla-holiday-software-update-video-text-messaging-camp-mode-demo/
+
 
 *Home page* :ref:`Tech Talk Blog`
