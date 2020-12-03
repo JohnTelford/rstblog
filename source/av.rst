@@ -16,6 +16,39 @@ Autonomous Vehicles
 
 -----
 
+Summary
+-------
+
+The *Autonomous Vehicle Implementation Predictions
+Implications for Transport Planning* [#]_ by
+Todd Litman, Victoria Transport Policy Institute.
+
+This report explores the impacts of AVs. It may be the most factual publication or story free of industry  
+
+   "Optimists predict that by 2030, autonomous vehicles will be sufficiently reliable, affordable and common to displace most human driving, providing huge savings and benefits. However, there are good reasons to be skeptical. Most optimistic predictions are made by people with financial interests in the industry, based on experience with disruptive technologies such as digital cameras, smart phones and personal computers. They tend to ignore significant obstacles to autonomous vehicle development, and exaggerate future benefits."
+
+   "There is considerable uncertainty concerning autonomous vehicle development, benefits and costs, travel impacts, and consumer demand. Considerable progress is needed before autonomous vehicles can operate reliably in mixed urban traffic, heavy rain and snow, unpaved and unmapped roads, and where wireless access is unreliable. Years of testing and regulatory approval will be required before they are commercially available in most jurisdictions. The first commercially available autonomous vehicles are likely to be expensive and limited in performance. They will introduce new costs and risks. These constraints will limit sales. Many motorists will be reluctant to pay thousands of extra dollars for vehicles that will sometimes be unable to reach a destination due to inclement weather or unmapped roads.
+   
+   "Autonomous vehicles currently have relatively high operational failure rates." 
+
+   "Autonomous vehicles are vulnerable to hacking. In one experiment, researchers demonstrated that adding graffiti-like marks to a roadside stop-sign caused software to read an inaccurate "Speed Limit 45" (Eykholt, et al. 2018). There will be an on-going arms race between hackers and software designers over autonomous vehicles control, which will add costs and risks."
+
+Traffic Safety and Security
+
+   Optimists claim that, because human error contributes to 90% of crashes, autonomous vehicles will reduce crash rates and insurance costs by 90%, but this overlooks additional risks these technologies can introduce
+
+   - Hardware and software failures. Complex electronic systems often fail due to false sensors, distorted signals and software errors. Self-driving vehicles will certainly have failures that contribute to crashes, although their frequency is difficult to predict.
+
+   - Malicious hacking. Self-driving technologies can be manipulated for amusement or crime.
+
+   - Increased risk-taking. When travelers feel safer they tend to take additional risks, called offsetting behavior or risk compensation. For example, autonomous vehicle passengers may reduce seatbelt use, and other road users may be less cautious (Millard-Ball 2016), described as "over-trusting" technology.
+   
+   - Platooning risks. Many potential benefits, such as reduced congestion and pollution emissions, require platooning (vehicles operating close together at high speeds on dedicated lanes), which can introduce new risks, such as human drivers joining platoons and increased crashes severity. Increased total vehicle travel. By improving convenience and comfort autonomous vehicles may increase total vehicle travel and therefore crash exposure.
+
+   - Additional risks to non -auto travelers. Autonomous vehicles may have difficulty detecting and accommodating pedestrians, bicyclists and motorcycles (PBIC 2017). Reduced investment in conventional safety strategies. The prospect of autonomous vehicles may reduce future efforts to improve driver safety.
+
+   - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs.
+   
 There are no AV for sale
 ------------------------
 
@@ -34,9 +67,16 @@ Defects are Lurking
 
 I like the idea of being delivered to my destination by AVs (Autonomous Vehicles). Spoiler Alert: There are no AVs for sale. Some of the vendors AVs hype storms are quieting down as reality set in. See Autonomous Vehicles
 
-My primary concern about AVs is developing, testing, and updating onboard hardware and software. Defects in computer systems is the way of things. They are lurking in AVs hardware, component, and software stacks that are built with various vendor products. The stacks are evolving. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
+My primary concern about AVs is developing, testing, and updating onboard hardware and software. AVs need are complex computer systems than aircraft because of roadway interactions
+
+.. figure:: _static/driving_in_mixed_traffic.png
+
+   Driving In Mixed Traffic
+
+Defects in computer systems is the way of things. They are lurking in AVs hardware, component, and software stacks that are built with various vendor products. The stacks are evolving. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
 
 Updating may be AVs Achilles heal. Use Microsoft as an example. It has been developing, selling, and updating software since 1975. The complexity of Microsoft ecosystem is less than AVs. It became market-dominate in selling PC compatible operating systems and office software suite markets. Microsoft updates still stumble sometimes. Some PC users and business IT staff dread Update Tuesday because of the collateral damage updates may inflict [#]_ , but users and staff do not usually die.
+
 
 
 AVs
@@ -126,7 +166,7 @@ Automated Driving System (“system”) Monitors The Driving Environment
 Testla's Elon Musk
 ------------------
 
-   I think Tesla CEO Elon Musk is the best salesman, ringmaster, poster child, con, etc.. for the AV Hype Cycle [#]_. Some of Musk’s statements are contrary to the SAE J3016 Six Levels Of Driving Automation.
+   I think Tesla CEO Elon Musk is the best car salesman, ringmaster, poster child, con, etc.. for the AV Hype Cycle [#]_. Some of Musk’s statements are contrary to the SAE J3016 Six Levels Of Driving Automation, and reality.
 
 First Look at Tesla’s Holiday Software Update [#]_
 
@@ -138,10 +178,38 @@ First Look at Tesla’s Holiday Software Update [#]_
 
    "The latest 2019.40.50 firmware gives Tesla owners with Autopilot Hardware 3 a preview of its upcoming Full-Self driving capabilities, showcasing an increasingly more intelligent Tesla Neural Net that’s able to identify and display multiple traffic lights, stop signs, and even garbage cans on the vehicle’s touchscreen. The ability to render road markings and vehicle types, in detail, on-screen paves the way for Tesla’s upcoming “feature complete” Full-Self Driving suite."
 
+Tesla’s New Ai Chip Isn’t A Silver Bullet For Self-Driving Cars [#]_
+
+   "At Tesla’s Autonomy Day event for investors, CEO Elon Musk described the new FSD (Full Self-Driving) computer that will power Tesla’s vehicles, Musk said they contained what was “objectively” the “best chip in the world.” And that’s not best by a little, but “by a huge margin.""
+
+   "Experts and rivals beg to differ. They say this claim should be taken with a pinch of salt, and that while Tesla’s new hardware is impressive, it doesn’t provide an insurmountable advantage for the company, nor will it solve the challenges facing AV."
+
+Musk Predicts Tesla Will Achieve Full Autonomy By 2020
+
+   "Tesla is less than two years away from full self-driving, CEO Elon Musk said in an interview. And said Tesla was far ahead of other companies working on self-driving technology."
+
+   It did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think this would probably be the biggest  magic show ever.
+
+   "To me right now, this seems 'game, set, and match,'" Musk said. "I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone."
+
+   "Musk said Tesla customers would need to keep their hands on the wheel "for at least six months or something like that." But he predicted that soon—"maybe even toward the end of this year, I’d be shocked if it’s not next year at the latest"—Tesla’s self-driving technology will become so good that "having a human intervene will decrease safety."
+
+AVs Maybe in 20XX
+-----------------
+
+   "Most objective experts acknowledge that Level 5 automation will require many more years for development and testing It may be decades before a vehicle can drive itself safely at any speed on any road in any weather. Toyota Research Institute CEO, Gill Pratt stated that autonomous driving, "is a wonderful goal but none of us in the automobile or IT industries are close to achieving true Level 5 autonomy." Nobody has a solution to self-driving cars that are reliable and safe enough to work everywhere." Not even :ref:`Testla's Elon Musk`
+
+
+The AV Players
+--------------
+
+The AV players list is quickly changing. The *List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars* [#]_  article captures the names and provides a blurb about several of the AV players. Who are the players their blurb, have most likely changed since the publication of the article.
 
 -----
 
 .. rubric:: Footnotes:
+
+.. [#] Autonomous Vehicle Implementation Predictions Implications for Transport Planning: https://www.vtpi.org/avip.pdf
 
 .. [#] 5G: https://techtalkjohn.com/5g/
 
@@ -153,5 +221,8 @@ First Look at Tesla’s Holiday Software Update [#]_
 
 .. [#] First Look at Tesla’s Holiday Software Update: https://www.teslarati.com/tesla-holiday-software-update-video-text-messaging-camp-mode-demo/
 
+.. [#] Tesla’s New Ai Chip Isn’t A Silver Bullet For Self-Driving Cars: https://www.theverge.com/2019/4/22/18510828/tesla-elon-musk-autonomy-day-investor-comments-self-driving-cars-predictions
+
+.. [#] List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars: https://www.analyticsinsight.net/top-10-autonomous-vehicle-companies-watch-2020/
 
 *Home page* :ref:`Tech Talk Blog`
