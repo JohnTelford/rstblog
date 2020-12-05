@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>http://lernfunk.de/media/654321</id>
   <title>Tech Talk</title>
-  <updated>2020-12-04T07:09:59.143635+00:00</updated>
+  <updated>2020-12-05T01:02:00.809345+00:00</updated>
   <link href="&quot;https://techtalkjohn.com&quot;"/>
   <link href="&quot;https://techtalkjohn.com&quot;/blog/atom.xml"/>
   <generator uri="https://ablog.readthedocs.org" version="0.10.9">ABlog</generator>
@@ -50,5 +50,14 @@
 </content>
     <link href="&quot;https://techtalkjohn.com&quot;/corporate_state/" rel="alternate"/>
     <published>2020-11-27T00:00:00-08:00</published>
+  </entry>
+  <entry>
+    <id>"https://techtalkjohn.com"/av/</id>
+    <title>Autonomous Vehicles</title>
+    <updated>2020-12-04T00:00:00-08:00</updated>
+    <content type="html">&lt;p&gt;Work in Progress&lt;/p&gt;
+</content>
+    <link href="&quot;https://techtalkjohn.com&quot;/av/" rel="alternate"/>
+    <published>2020-12-04T00:00:00-08:00</published>
   </entry>
 </feed>

@@ -2,7 +2,7 @@ Autonomous Vehicles
 ====================
 
 
-.. post:: 
+.. post:: Dec 4, 2020
    :tags: AV
    :category:
 
@@ -23,11 +23,11 @@ Overview
 
 The *Autonomous Vehicle Implementation Predictions
 Implications for Transport Planning* report [#]_ by
-Todd Litman, Victoria Transport Policy Institute. It explores the impacts of AVs. It may be the most factual publication or article, free of financial interests 
+Todd Litman, Victoria Transport Policy Institute explores the impacts of AVs. It may be the most factual publication free of financial interests 
 
    "Optimists predict that by 2030, autonomous vehicles will be sufficiently reliable, affordable and common to displace most human driving, providing huge savings and benefits. However, there are good reasons to be skeptical. Most optimistic predictions are made by people with financial interests in the industry, based on experience with disruptive technologies such as digital cameras, smart phones and personal computers. They tend to ignore significant obstacles to autonomous vehicle development, and exaggerate future benefits."
 
-   "There is considerable uncertainty concerning autonomous vehicle development, benefits and costs, travel impacts, and consumer demand. Considerable progress is needed before autonomous vehicles can operate reliably in mixed urban traffic, heavy rain and snow, unpaved and unmapped roads, and where wireless access is unreliable. Years of testing and regulatory approval will be required before they are commercially available in most jurisdictions. The first commercially available autonomous vehicles are likely to be expensive and limited in performance. They will introduce new costs and risks. These constraints will limit sales. Many motorists will be reluctant to pay thousands of extra dollars for vehicles that will sometimes be unable to reach a destination due to inclement weather or unmapped roads.
+   "There is considerable uncertainty concerning autonomous vehicle development, benefits and costs, travel impacts, and consumer demand. Considerable progress is needed before autonomous vehicles can operate reliably in mixed urban traffic, heavy rain and snow, unpaved and unmapped roads, and where wireless access is unreliable. Years of testing and regulatory approval will be required before they are commercially available in most jurisdictions. The first commercially available autonomous vehicles are likely to be expensive and limited in performance. They will introduce new costs and risks. These constraints will limit sales. Many motorists will be reluctant to pay thousands of extra dollars for vehicles that will sometimes be unable to reach a destination due to inclement weather or unmapped roads."
    
    "Autonomous vehicles currently have relatively high operational failure rates." 
 
@@ -35,7 +35,7 @@ Todd Litman, Victoria Transport Policy Institute. It explores the impacts of AVs
 
 Traffic Safety and Security
 
-   Optimists claim that, because human error contributes to 90% of crashes, autonomous vehicles will reduce crash rates and insurance costs by 90%, but this overlooks additional risks these technologies can introduce
+   "Optimists claim that, because human error contributes to 90% of crashes, autonomous vehicles will reduce crash rates and insurance costs by 90%, but this overlooks additional risks these technologies can introduce
 
    - Hardware and software failures. Complex electronic systems often fail due to false sensors, distorted signals and software errors. Self-driving vehicles will certainly have failures that contribute to crashes, although their frequency is difficult to predict.
 
@@ -47,7 +47,7 @@ Traffic Safety and Security
 
    - Additional risks to non-auto travelers. Autonomous vehicles may have difficulty detecting and accommodating pedestrians, bicyclists and motorcycles. Reduced investment in conventional safety strategies. The prospect of autonomous vehicles may reduce future efforts to improve driver safety.
 
-   - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs.
+   - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs."
    
 There Are No AVs For Sale
 -------------------------
@@ -71,24 +71,49 @@ Driving defensively requires constant evaluation of ever changing conditions, an
 
 .. figure:: _static/driving_in_mixed_traffic.png
 
-   Driving In Mixed Traffic
+   *Driving In Mixed Traffic*
 
 Complex Complexity
 ------------------
 
-Vehicles need more complex computer systems than aircraft, due to the complexity of roadway interactions.
+Vehicles  computer systems are more complex than aircraft, due to the complexity of roadway interactions. Complexity will only increase as the race for the Full Automation Holy Grail continues.
 
 .. figure:: _static/av_complex_computer.png
+
+mixed   *AV Complex Computer Systems*
 
 
 Defects in computer systems are the way of things. They are lurking in AVs ever evolving hardware, component, and software products from various sources. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
 
 Updating may be AVs Achilles heal. Use Microsoft as an example. It has been developing, selling, and updating software since 1975. The complexity of Microsoft ecosystem is less than AVs. It became market-dominate in selling PC compatible operating systems and office software suite markets. Microsoft updates still stumble sometimes. Some PC users and business IT staff dread Update Tuesday because of the collateral damage updates may inflict [#]_ , but users and staff do not usually die.
 
+Testing Complex Systems
+-----------------------
+
+Adequate testing of complex hardware or software components from various vendors is a challenge. 
+
+How some components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
+
+Every so ofter, components in AVs complex  technology webs  deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
+
+These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence
+
+
+
+
+How Not to Test
+---------------
+
+
+
 Certification and Black Boxes
 -----------------------------
 
 I think it would be appropriate
+
+testing and regulatory approval
+
+
 
 
 AVs
@@ -97,7 +122,7 @@ AVs
 .. figure:: _static/JaguarSDC.jpg
 
 
-    AV
+    *Some AV sensors*
 
 There are several varieties of computers,  electronics, and software  supporting the highlighted technologies in the AV figure. More varieties are supporting things like engine control and monitoring, GPS, entertainment console, and so much more.
 
@@ -207,6 +232,12 @@ Musk Predicts Tesla Will Achieve Full Autonomy By 2020
 
    "Musk said Tesla customers would need to keep their hands on the wheel "for at least six months or something like that." But he predicted that soon—"maybe even toward the end of this year, I’d be shocked if it’s not next year at the latest"—Tesla’s self-driving technology will become so good that "having a human intervene will decrease safety."
 
+The Cult of Elon
+................
+
+Check it out *The Cult of Elon* [#]_
+
+
 AVs Maybe in 20xx
 -----------------
 
@@ -235,6 +266,8 @@ The AV players list is quickly changing. The *List Of Companies That Are Leading
 .. [#] First Look at Tesla’s Holiday Software Update: https://www.teslarati.com/tesla-holiday-software-update-video-text-messaging-camp-mode-demo/
 
 .. [#] Tesla’s New Ai Chip Isn’t A Silver Bullet For Self-Driving Cars: https://www.theverge.com/2019/4/22/18510828/tesla-elon-musk-autonomy-day-investor-comments-self-driving-cars-predictions
+
+.. [#] The Cult of Elon Is Cracking: https://www.msn.com/en-us/money/companies/the-cult-of-elon-is-cracking/ar-BB14mF1t
 
 .. [#] List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars: https://www.analyticsinsight.net/top-10-autonomous-vehicle-companies-watch-2020/
 
