@@ -23,7 +23,7 @@ Overview
 
 The *Autonomous Vehicle Implementation Predictions
 Implications for Transport Planning* report [#]_ by
-Todd Litman, Victoria Transport Policy Institute explores the impacts of AVs. It may be the most factual publication free of financial interests 
+Todd Litman, Victoria Transport Policy Institute, explores the impacts of AVs. It may be the most factual publication free of financial interests 
 
    "Optimists predict that by 2030, autonomous vehicles will be sufficiently reliable, affordable and common to displace most human driving, providing huge savings and benefits. However, there are good reasons to be skeptical. Most optimistic predictions are made by people with financial interests in the industry, based on experience with disruptive technologies such as digital cameras, smart phones and personal computers. They tend to ignore significant obstacles to autonomous vehicle development, and exaggerate future benefits."
 
@@ -65,7 +65,7 @@ AV will need fifth generation wireless, 5G [#]_, widely deployed before they are
 Defects are Lurking
 -------------------
 
-My primary concern about AVs is developing, testing, and updating onboard hardware and software. AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
+A primary concern about AVs is developing, testing, and updating onboard hardware and software. AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
 
 Driving defensively requires constant evaluation of ever changing conditions, and to quickly respond to other drivers, people, animals, weather conditions, and many more known or unknown hazards.
 
@@ -80,7 +80,7 @@ Vehicles  computer systems are more complex than aircraft, due to the complexity
 
 .. figure:: _static/av_complex_computer.png
 
-mixed   *AV Complex Computer Systems*
+      *AV Complex Computer Systems*
 
 
 Defects in computer systems are the way of things. They are lurking in AVs ever evolving hardware, component, and software products from various sources. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
@@ -90,11 +90,11 @@ Updating may be AVs Achilles heal. Use Microsoft as an example. It has been deve
 Testing Complex Systems
 -----------------------
 
-Adequate testing of complex hardware or software components from various vendors is a challenge. 
+Adequate testing of complex hardware and software components from various vendors is a challenge. 
 
 How some components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
 
-Every so ofter, components in AVs complex  technology webs  deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
+Ever so ofter, components in AVs complex  technology webs, deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
 
 These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence
 
@@ -208,11 +208,11 @@ Testla's Elon Musk
 
 First Look at Tesla’s Holiday Software Update [#]_
 
-   All cool stuff, but it is a drop in a bucket for what is needed within 2 years to transform Tesla products from Level 2 Partial Assistance to Level 5 Full Automation AV, that was talked up April 15, 2019 Musk predicts Tesla will achieve full autonomy by 2020.
+   "All cool stuff, but it is a drop in a bucket for what is needed within 2 years to transform Tesla products from Level 2 Partial Assistance to Level 5 Full Automation AV, that was talked up April 15, 2019 Musk predicts Tesla will achieve full autonomy by 2020."
 
-   Level 5 Full Automation require the vehicle does not need human control. It doesn’t need to have pedals, or a steering wheel, or a human onboard. It is fully automated and can do all driving tasks on any road, under any conditions, whether there’s a human on board or not.
+   "Level 5 Full Automation require the vehicle does not need human control. It doesn’t need to have pedals, or a steering wheel, or a human onboard. It is fully automated and can do all driving tasks on any road, under any conditions, whether there’s a human on board or not."
 
-   And, it must deal the with the unpredictable, stupid, and crazy things human drivers and pedestrians do.
+   "And, it must deal the with the unpredictable, stupid, and crazy things human drivers and pedestrians do."
 
    "The latest 2019.40.50 firmware gives Tesla owners with Autopilot Hardware 3 a preview of its upcoming Full-Self driving capabilities, showcasing an increasingly more intelligent Tesla Neural Net that’s able to identify and display multiple traffic lights, stop signs, and even garbage cans on the vehicle’s touchscreen. The ability to render road markings and vehicle types, in detail, on-screen paves the way for Tesla’s upcoming “feature complete” Full-Self Driving suite."
 
@@ -222,11 +222,11 @@ Tesla’s New Ai Chip Isn’t A Silver Bullet For Self-Driving Cars [#]_
 
    "Experts and rivals beg to differ. They say this claim should be taken with a pinch of salt, and that while Tesla’s new hardware is impressive, it doesn’t provide an insurmountable advantage for the company, nor will it solve the challenges facing AV."
 
-Musk Predicts Tesla Will Achieve Full Autonomy By 2020
+Musk Predicts Tesla Will Achieve Full Autonomy By 2021 [#]_
 
    "Tesla is less than two years away from full self-driving, CEO Elon Musk said in an interview. And said Tesla was far ahead of other companies working on self-driving technology."
 
-   It did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think this would probably be the biggest  magic show ever.
+   It is almost 2021, and it did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever.
 
    "To me right now, this seems 'game, set, and match,'" Musk said. "I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone."
 
@@ -247,7 +247,7 @@ AVs Maybe in 20xx
 The AV Players
 --------------
 
-The AV players list is quickly changing. The *List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars* [#]_  article captures the names and provides a blurb about several of the AV players. The players and their blurb have most likely changed since this post.
+The AV players list is quickly changing. The *List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars* [#]_  article captures the names and provides a blurb about several of the AV players. The players and  blurbs have most likely changed since this post.
 
 -----
 
@@ -266,6 +266,8 @@ The AV players list is quickly changing. The *List Of Companies That Are Leading
 .. [#] First Look at Tesla’s Holiday Software Update: https://www.teslarati.com/tesla-holiday-software-update-video-text-messaging-camp-mode-demo/
 
 .. [#] Tesla’s New Ai Chip Isn’t A Silver Bullet For Self-Driving Cars: https://www.theverge.com/2019/4/22/18510828/tesla-elon-musk-autonomy-day-investor-comments-self-driving-cars-predictions
+
+.. [#] Elon Musk is ‘extremely confident’ Tesla will release full autonomy in ‘some jurisdictions’ next year: https://electrek.co/2020/12/02/elon-musk-extremely-confident-tesla-release-full-autonomy-some-jurisdictions-2021/ 
 
 .. [#] The Cult of Elon Is Cracking: https://www.msn.com/en-us/money/companies/the-cult-of-elon-is-cracking/ar-BB14mF1t
 
