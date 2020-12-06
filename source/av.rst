@@ -67,7 +67,7 @@ Defects are Lurking
 
 A primary concern about AVs is developing, testing, and updating onboard hardware and software. AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
 
-Driving defensively requires constant evaluation of ever changing conditions, and to quickly respond to other drivers, people, animals, weather conditions, and many more known or unknown hazards.
+Driving defensively requires keeping vigilant and evaluating   ever changing conditions, and to quickly respond to other drivers, people, animals, road conditions, weather conditions, and many more known or unknown hazards.
 
 .. figure:: _static/driving_in_mixed_traffic.png
 
@@ -94,25 +94,49 @@ Adequate testing of complex hardware and software components from various vendor
 
 How some components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
 
-Ever so ofter, components in AVs complex  technology webs, deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
+Ever so ofter, components in AVs complex  technology webs, may deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
 
-These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence
+These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence systems.
+
+A computer manufacture method of  testing complex products before shipping relied on a test suite randomly running  waves of tests of random severity. Severe test loads stressed  data paths, hardware, peripherals, and software throughout the computer, surfacing latent defects. Less severe test loads also found latent defects.
+
+This way of testing surfaced operating systems defects, firmware defects, and defects in the CPU silicon. Engineering and Manufacturing  loved and hated the test suite. It surfaced defects, but could not be exactly repeated  because of its random nature.
 
 
+Testing AVs
+...........
 
+Maybe AV sensor and control systems could be tested   in a test harness. Computers model  sensor data and  cameras watch  virtual reality of changing conditions and hazards.   
+
+Sensor and control systems are measured how fast they respond to other drivers, people, animals, road conditions, weather conditions, and other  hazards.  The  accuracy and quality of the systems judgments are determined. 
+
+The hazards list will grow as hacking increases and more accidents are reported. The state of the sensor and control systems data is logged and abnormal events analysed.
 
 How Not to Test
 ---------------
+
+Tesla released a early version "full self-driving" software [#]_ to a limited number of customers.
+
+"To understand the new software, I watched more than three hours of driving footage from three Tesla owners who got the FSD update. These YouTube videos underscored how important it is for drivers to actively supervise Tesla's new software. Over the course of three hours, the drivers took control more than a dozen times, including at least two cases when the car seemed to be on the verge of crashing into another vehicle."
 
 
 
 Certification and Black Boxes
 -----------------------------
 
-I think it would be appropriate
+Aircraft
+........
 
-testing and regulatory approval
+The Federal Aviation Administration certifies aircraft, and is responsible for interpreting the black box data recovered for aircraft crashes.
 
+Automobiles
+...........
+
+ AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
+
+Most automobiles brands on highways today have been crashed tested to ensure safe design standards in crash worthiness and crash compatibility. They are conducted under rigorous scientific and safety standards.
+
+When an automobile crashes, there is no black box data with stored information showing what happened.
 
 
 
@@ -258,6 +282,8 @@ The AV players list is quickly changing. The *List Of Companies That Are Leading
 .. [#] 5G: https://techtalkjohn.com/5g/
 
 .. [#] Microsoft Windows update problem 2020: https://duckduckgo.com/?q=microsoft+update+problem+2020&t=osx&ia=web
+
+.. [#] “Oh Jeeeesus”: Drivers react to Tesla’s full self-driving beta release: https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/
 
 .. [#] SAE International: https://www.sae.org/misc/pdfs/automated_driving.pdf
 
