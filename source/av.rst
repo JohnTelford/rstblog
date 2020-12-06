@@ -90,7 +90,7 @@ Updating may be AVs Achilles heal. Use Microsoft as an example. It has been deve
 Testing Complex Systems
 -----------------------
 
-Adequate testing of complex hardware and software components from various vendors is a challenge. 
+analysesAdequate testing of complex hardware and software components from various vendors is a challenge. 
 
 How some components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
 
@@ -106,11 +106,11 @@ This way of testing surfaced operating systems defects, firmware defects, and de
 Testing AVs
 ...........
 
-Maybe AV sensor and control systems could be tested   in a test harness. Computers model  sensor data and  cameras watch  virtual reality of changing conditions and hazards.   
+AV sensor and control systems could be tested   in test harnesses. Computers model  sensor data and  cameras watch  virtual reality of changing conditions and hazards.   
 
-Sensor and control systems are measured how fast they respond to other drivers, people, animals, road conditions, weather conditions, and other  hazards.  The  accuracy and quality of the systems judgments are determined. 
+Sensor and control systems are measured how fast they respond to changing conditions and hazards.  The  accuracy and quality of the systems judgments are determined. 
 
-The hazards list will grow as hacking increases and more accidents are reported. The state of the sensor and control systems data is logged and abnormal events analysed.
+The hazards list will grow as hacking increases and more accidents are analysed. The state of the sensor and control systems data is logged and abnormal events analysed.
 
 How Not to Test
 ---------------
@@ -132,13 +132,24 @@ The Federal Aviation Administration certifies aircraft, and is responsible for i
 Automobiles
 ...........
 
- AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
+AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
 
 Most automobiles brands on highways today have been crashed tested to ensure safe design standards in crash worthiness and crash compatibility. They are conducted under rigorous scientific and safety standards.
 
+Black Box
+.........
+
 When an automobile crashes, there is no black box data with stored information showing what happened.
 
+Federal Autonomous Automobile Agency ?
+......................................
 
+AVs in the wild need something analogous to crash testing so consumers will have more information about  their AV choices
+
+A framework could be the FAAA creates a continuing series of augmented reality videos. Series episodes  feature diverse  typical and untypical material that challenge AVs ability to evaluate ever changing conditions, and to quickly respond to other drivers, people, animals, weather conditions, and many more known or unknown hazards
+
+
+AVs on the road
 
 AVs
 ---
