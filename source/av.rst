@@ -48,7 +48,27 @@ Traffic Safety and Security
    - Additional risks to non-auto travelers. Autonomous vehicles may have difficulty detecting and accommodating pedestrians, bicyclists and motorcycles. Reduced investment in conventional safety strategies. The prospect of autonomous vehicles may reduce future efforts to improve driver safety.
 
    - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs."
-   
+
+Where Is My Driverless Car? [#]_
+--------------------------------
+
+   "The technology is tricky, and driverless cars may never fix all the problems we hoped they would."
+
+   "The pandemic has accelerated some long-predicted technology habits like telemedicine and online grocery shopping. But driverless car technology might be kicked into reverse."
+
+   "The ubiquitous computer-driven car that seemed just around the corner for a decade is now further away than ever."
+
+   "The struggles of robot cars make me wonder if it’s possible to shoot for the moon with technology without shooting ourselves in the foot by hoping for magic."
+
+AV Testing Is On Hold [5]_
+..........................
+
+   "Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy."
+
+   "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult."
+
+   "The timeout caused by the pandemic has hastened an industry shakeout that was already starting to happen. Many self-driving car companies have no revenue, and the operating costs are unusually high. "
+
 There Are No AVs For Sale
 -------------------------
 
@@ -105,6 +125,8 @@ This way of testing surfaced operating systems defects, firmware defects, and de
 
 Testing AVs
 ...........
+
+“Simulation is not something you do in a vacuum, without any connection with the real world and real data,” said Davide Bacchet, Voyage’s vice president of engineering. “We can only progress to the point where the simulation is accurate.”[#]_
 
 AV sensor and control systems could be tested   in test harnesses. Computers model  sensor data and  cameras watch  virtual reality of changing conditions and hazards.   
 
@@ -290,9 +312,13 @@ The AV players list is quickly changing. The *List Of Companies That Are Leading
 
 .. [#] Autonomous Vehicle Implementation Predictions Implications for Transport Planning: https://www.vtpi.org/avip.pdf
 
+.. [#] Where Is My Driverless Car?: https://www.nytimes.com/2020/05/13/technology/driverless-cars.html
+
 .. [#] 5G: https://techtalkjohn.com/5g/
 
 .. [#] Microsoft Windows update problem 2020: https://duckduckgo.com/?q=microsoft+update+problem+2020&t=osx&ia=web
+
+.. [#] This Was Supposed to Be the Year Driverless Cars Went Mainstream: https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html
 
 .. [#] “Oh Jeeeesus”: Drivers react to Tesla’s full self-driving beta release: https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/
 

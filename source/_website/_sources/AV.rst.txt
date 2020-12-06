@@ -23,7 +23,7 @@ Overview
 
 The *Autonomous Vehicle Implementation Predictions
 Implications for Transport Planning* report [#]_ by
-Todd Litman, Victoria Transport Policy Institute explores the impacts of AVs. It may be the most factual publication free of financial interests 
+Todd Litman, Victoria Transport Policy Institute, explores the impacts of AVs. It may be the most factual publication free of financial interests 
 
    "Optimists predict that by 2030, autonomous vehicles will be sufficiently reliable, affordable and common to displace most human driving, providing huge savings and benefits. However, there are good reasons to be skeptical. Most optimistic predictions are made by people with financial interests in the industry, based on experience with disruptive technologies such as digital cameras, smart phones and personal computers. They tend to ignore significant obstacles to autonomous vehicle development, and exaggerate future benefits."
 
@@ -48,7 +48,27 @@ Traffic Safety and Security
    - Additional risks to non-auto travelers. Autonomous vehicles may have difficulty detecting and accommodating pedestrians, bicyclists and motorcycles. Reduced investment in conventional safety strategies. The prospect of autonomous vehicles may reduce future efforts to improve driver safety.
 
    - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs."
-   
+
+Where Is My Driverless Car? [#]_
+--------------------------------
+
+   "The technology is tricky, and driverless cars may never fix all the problems we hoped they would."
+
+   "The pandemic has accelerated some long-predicted technology habits like telemedicine and online grocery shopping. But driverless car technology might be kicked into reverse."
+
+   "The ubiquitous computer-driven car that seemed just around the corner for a decade is now further away than ever."
+
+   "The struggles of robot cars make me wonder if it’s possible to shoot for the moon with technology without shooting ourselves in the foot by hoping for magic."
+
+AV Testing Is On Hold [5]_
+..........................
+
+   "Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy."
+
+   "Perfecting the technology has taken longer than expected. The coronavirus pandemic has made it even more difficult."
+
+   "The timeout caused by the pandemic has hastened an industry shakeout that was already starting to happen. Many self-driving car companies have no revenue, and the operating costs are unusually high. "
+
 There Are No AVs For Sale
 -------------------------
 
@@ -65,9 +85,9 @@ AV will need fifth generation wireless, 5G [#]_, widely deployed before they are
 Defects are Lurking
 -------------------
 
-My primary concern about AVs is developing, testing, and updating onboard hardware and software. AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
+A primary concern about AVs is developing, testing, and updating onboard hardware and software. AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
 
-Driving defensively requires constant evaluation of ever changing conditions, and to quickly respond to other drivers, people, animals, weather conditions, and many more known or unknown hazards.
+Driving defensively requires keeping vigilant and evaluating   ever changing conditions, and to quickly respond to other drivers, people, animals, road conditions, weather conditions, and many more known or unknown hazards.
 
 .. figure:: _static/driving_in_mixed_traffic.png
 
@@ -80,7 +100,7 @@ Vehicles  computer systems are more complex than aircraft, due to the complexity
 
 .. figure:: _static/av_complex_computer.png
 
-mixed   *AV Complex Computer Systems*
+      *AV Complex Computer Systems*
 
 
 Defects in computer systems are the way of things. They are lurking in AVs ever evolving hardware, component, and software products from various sources. Vendors do a herculean task of creating, testing, and updating their products. Some more than others. Fixing defects with updates is a fact of computer technology.
@@ -90,31 +110,68 @@ Updating may be AVs Achilles heal. Use Microsoft as an example. It has been deve
 Testing Complex Systems
 -----------------------
 
-Adequate testing of complex hardware or software components from various vendors is a challenge. 
+analysesAdequate testing of complex hardware and software components from various vendors is a challenge. 
 
 How some components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
 
-Every so ofter, components in AVs complex  technology webs  deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
+Ever so ofter, components in AVs complex  technology webs, may deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
 
-These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence
+These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence systems.
+
+A computer manufacture method of  testing complex products before shipping relied on a test suite randomly running  waves of tests of random severity. Severe test loads stressed  data paths, hardware, peripherals, and software throughout the computer, surfacing latent defects. Less severe test loads also found latent defects.
+
+This way of testing surfaced operating systems defects, firmware defects, and defects in the CPU silicon. Engineering and Manufacturing  loved and hated the test suite. It surfaced defects, but could not be exactly repeated  because of its random nature.
 
 
+Testing AVs
+...........
 
+“Simulation is not something you do in a vacuum, without any connection with the real world and real data,” said Davide Bacchet, Voyage’s vice president of engineering. “We can only progress to the point where the simulation is accurate.”[#]_
+
+AV sensor and control systems could be tested   in test harnesses. Computers model  sensor data and  cameras watch  virtual reality of changing conditions and hazards.   
+
+Sensor and control systems are measured how fast they respond to changing conditions and hazards.  The  accuracy and quality of the systems judgments are determined. 
+
+The hazards list will grow as hacking increases and more accidents are analysed. The state of the sensor and control systems data is logged and abnormal events analysed.
 
 How Not to Test
 ---------------
+
+Tesla released a early version "full self-driving" software [#]_ to a limited number of customers.
+
+"To understand the new software, I watched more than three hours of driving footage from three Tesla owners who got the FSD update. These YouTube videos underscored how important it is for drivers to actively supervise Tesla's new software. Over the course of three hours, the drivers took control more than a dozen times, including at least two cases when the car seemed to be on the verge of crashing into another vehicle."
 
 
 
 Certification and Black Boxes
 -----------------------------
 
-I think it would be appropriate
+Aircraft
+........
 
-testing and regulatory approval
+The Federal Aviation Administration certifies aircraft, and is responsible for interpreting the black box data recovered for aircraft crashes.
+
+Automobiles
+...........
+
+AVs need more complex computer systems than aircraft because of roadway interactions, and driving a vehicle is more difficult than flying a plane. 
+
+Most automobiles brands on highways today have been crashed tested to ensure safe design standards in crash worthiness and crash compatibility. They are conducted under rigorous scientific and safety standards.
+
+Black Box
+.........
+
+When an automobile crashes, there is no black box data with stored information showing what happened.
+
+Federal Autonomous Automobile Agency ?
+......................................
+
+AVs in the wild need something analogous to crash testing so consumers will have more information about  their AV choices
+
+A framework could be the FAAA creates a continuing series of augmented reality videos. Series episodes  feature diverse  typical and untypical material that challenge AVs ability to evaluate ever changing conditions, and to quickly respond to other drivers, people, animals, weather conditions, and many more known or unknown hazards
 
 
-
+AVs on the road
 
 AVs
 ---
@@ -226,7 +283,7 @@ Musk Predicts Tesla Will Achieve Full Autonomy By 2021 [#]_
 
    "Tesla is less than two years away from full self-driving, CEO Elon Musk said in an interview. And said Tesla was far ahead of other companies working on self-driving technology."
 
-   "It is almost 2021, and it did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever."
+   It is almost 2021, and it did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever.
 
    "To me right now, this seems 'game, set, and match,'" Musk said. "I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone."
 
@@ -247,7 +304,7 @@ AVs Maybe in 20xx
 The AV Players
 --------------
 
-The AV players list is quickly changing. The *List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars* [#]_  article captures the names and provides a blurb about several of the AV players. The players and their blurb have most likely changed since this post.
+The AV players list is quickly changing. The *List Of Companies That Are Leading The Market Of Autonomous Vehicles Or Self-Driving Cars* [#]_  article captures the names and provides a blurb about several of the AV players. The players and  blurbs have most likely changed since this post.
 
 -----
 
@@ -255,9 +312,15 @@ The AV players list is quickly changing. The *List Of Companies That Are Leading
 
 .. [#] Autonomous Vehicle Implementation Predictions Implications for Transport Planning: https://www.vtpi.org/avip.pdf
 
+.. [#] Where Is My Driverless Car?: https://www.nytimes.com/2020/05/13/technology/driverless-cars.html
+
 .. [#] 5G: https://techtalkjohn.com/5g/
 
 .. [#] Microsoft Windows update problem 2020: https://duckduckgo.com/?q=microsoft+update+problem+2020&t=osx&ia=web
+
+.. [#] This Was Supposed to Be the Year Driverless Cars Went Mainstream: https://www.nytimes.com/2020/05/12/technology/self-driving-cars-coronavirus.html
+
+.. [#] “Oh Jeeeesus”: Drivers react to Tesla’s full self-driving beta release: https://arstechnica.com/cars/2020/10/tesla-is-now-beta-testing-self-driving-software-on-public-roads/
 
 .. [#] SAE International: https://www.sae.org/misc/pdfs/automated_driving.pdf
 
