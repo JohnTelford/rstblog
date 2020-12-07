@@ -50,7 +50,7 @@ Traffic Safety and Security
    - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs."
 
 Where Is My Driverless Car? [#]_
---------------------------------
+----------------------------------
 
    "The technology is tricky, and driverless cars may never fix all the problems we hoped they would."
 
@@ -61,7 +61,7 @@ Where Is My Driverless Car? [#]_
    "The struggles of robot cars make me wonder if it’s possible to shoot for the moon with technology without shooting ourselves in the foot by hoping for magic."
 
 AV Testing Is On Hold [5]_
-..........................
+............................
 
    "Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy."
 
@@ -72,7 +72,7 @@ AV Testing Is On Hold [5]_
 There Are No AVs For Sale
 -------------------------
 
-AVs are also known as self-driving.
+AVs are also known as self-driving cars.
 
 There are six levels (0-5) of car autonomy from “no automation” to “full automation” :ref:`Levels of Driving Automation` .  Most of us are driving Level 0, no automation, or Level 1, driver assistance AV. A few like Tesla that are ranked at Level 2, partial Assistance. Fewer like the Audi A8 are ranked at Level 3, conditional assistance. The prophecy is some Level 4 AV are being tested on public roads. There are a few full AV Level 5 concept AV being tested. Honda and Tesla are are promoting AV Level 5 is soon to be available. 
 
@@ -110,17 +110,17 @@ Updating may be AVs Achilles heal. Use Microsoft as an example. It has been deve
 Testing Complex Systems
 -----------------------
 
-analysesAdequate testing of complex hardware and software components from various vendors is a challenge. 
+Adequate testing of complex hardware and software components from various vendors is a challenge. 
 
-How some components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
+How  components works with others may be determined during product development. Determining how  the plethora of technologies work together in AVs is formidable.
 
 Ever so ofter, components in AVs complex  technology webs, may deal with combinations and permutations  of signals  that hardware or software were not designed to handle. The result may not matter, or  sometimes may crash  other components that may be detrimental to the AV.
 
-These situations are difficult to solve without knowing the state of the culprits. It may be exceeding difficult if the culprits are Artificial Intelligence systems.
+These situations are difficult to solve without knowing the state of the culprits. It may be  more difficult if the culprits are Artificial Intelligence systems.
 
 A computer manufacture method of  testing complex products before shipping relied on a test suite randomly running  waves of tests of random severity. Severe test loads stressed  data paths, hardware, peripherals, and software throughout the computer, surfacing latent defects. Less severe test loads also found latent defects.
 
-This way of testing surfaced operating systems defects, firmware defects, and defects in the CPU silicon. Engineering and Manufacturing  loved and hated the test suite. It surfaced defects, but could not be exactly repeated  because of its random nature.
+This way of testing surfaced operating systems defects, firmware defects, and defects in the CPU silicon. Engineering and Manufacturing  loved and hated the test suite. It surfaced defects, but the state of the test suite that surfaced the latent defect could not be  repeated  because of its random nature.
 
 
 Testing AVs
@@ -128,11 +128,13 @@ Testing AVs
 
 “Simulation is not something you do in a vacuum, without any connection with the real world and real data,” said Davide Bacchet, Voyage’s vice president of engineering. “We can only progress to the point where the simulation is accurate.”[#]_
 
-AV sensor and control systems could be tested   in test harnesses. Computers model  sensor data and  cameras watch  virtual reality of changing conditions and hazards.   
+AV sensor and control systems could be tested   in test harnesses. Computers model  sensor data and possibly cameras could watch  virtual reality of changing conditions and hazards.   
 
 Sensor and control systems are measured how fast they respond to changing conditions and hazards.  The  accuracy and quality of the systems judgments are determined. 
 
 The hazards list will grow as hacking increases and more accidents are analysed. The state of the sensor and control systems data is logged and abnormal events analysed.
+
+The next testing, after AV sensor and control systems latent defects and others defects have been remediated while in test harnesses, is real world testing.
 
 How Not to Test
 ---------------
@@ -161,17 +163,15 @@ Most automobiles brands on highways today have been crashed tested to ensure saf
 Black Box
 .........
 
-When an automobile crashes, there is no black box data with stored information showing what happened.
+When an automobile crashes, there is no black box data with stored information leading to what happened.
 
-Federal Autonomous Automobile Agency ?
+Federal Autonomous Vehicles Agency ?
 ......................................
 
-AVs in the wild need something analogous to crash testing so consumers will have more information about  their AV choices
+AVs in the wild need something analogous to crash testing so consumers will have more information about  the worthiness of AV choices
 
-A framework could be the FAAA creates a continuing series of augmented reality videos. Series episodes  feature diverse  typical and untypical material that challenge AVs ability to evaluate ever changing conditions, and to quickly respond to other drivers, people, animals, weather conditions, and many more known or unknown hazards
+A framework could be the FAVA providing testing facilities, such as test tracks or  unused roads. Both would have unexpected events happen so  AV manufactures could not train the onboard AI systems for the testing facilities. FAVA employees are onboard ready to take control when necessary
 
-
-AVs on the road
 
 AVs
 ---
@@ -195,7 +195,7 @@ Thee are six levels of car autonomy from “no automation” to “full automati
    SAE J3016
 
 
-Human driver monitors the driving
+Human Driver Monitors The Driving
 .................................
 
 Level 0 - No Automation. 
@@ -261,7 +261,7 @@ Level 5 - Full Automation
 Testla's Elon Musk
 ------------------
 
-   I think Tesla CEO Elon Musk is the best car salesman, ringmaster, poster child, con, etc.. for the AV Hype Cycle [#]_. Some of Musk’s statements are contrary to the SAE J3016 Six Levels Of Driving Automation, and reality.
+   I think Tesla CEO Elon Musk is the best car salesman, ringmaster, poster child, con, etc.. for the AV Hype Cycle [#]_. Some of Musk’s statements are contrary to the SAE J3016 Six :ref:`Levels of Driving Automation` , and reality.
 
 First Look at Tesla’s Holiday Software Update [#]_
 
@@ -283,7 +283,7 @@ Musk Predicts Tesla Will Achieve Full Autonomy By 2021 [#]_
 
    "Tesla is less than two years away from full self-driving, CEO Elon Musk said in an interview. And said Tesla was far ahead of other companies working on self-driving technology."
 
-   It is almost 2021, and it did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever.
+   It is almost 2021, and it has not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever.
 
    "To me right now, this seems 'game, set, and match,'" Musk said. "I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone."
 
