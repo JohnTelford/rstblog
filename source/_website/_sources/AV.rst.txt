@@ -49,7 +49,7 @@ Traffic Safety and Security
 
    - Higher vehicle repair costs due to additional equipment. Additional sensors and control systems, and increased quality control, are likely to significantly increase collision repair costs."
 
-*Where Is My Driverless Car?* [#]_
+Where Is My Driverless Car? [#]_
 ----------------------------------
 
    "The technology is tricky, and driverless cars may never fix all the problems we hoped they would."
@@ -60,7 +60,7 @@ Traffic Safety and Security
 
    "The struggles of robot cars make me wonder if it’s possible to shoot for the moon with technology without shooting ourselves in the foot by hoping for magic."
 
-*AV Testing Is On Hold* [5]_
+AV Testing Is On Hold [5]_
 ............................
 
    "Tech companies once promised that fully functional, self-driving cars would be on the road by 2020 and on the path to remaking transportation and transforming the economy."
@@ -72,7 +72,7 @@ Traffic Safety and Security
 There Are No AVs For Sale
 -------------------------
 
-AVs are also known as self-driving.
+AVs are also known as self-driving cars.
 
 There are six levels (0-5) of car autonomy from “no automation” to “full automation” :ref:`Levels of Driving Automation` .  Most of us are driving Level 0, no automation, or Level 1, driver assistance AV. A few like Tesla that are ranked at Level 2, partial Assistance. Fewer like the Audi A8 are ranked at Level 3, conditional assistance. The prophecy is some Level 4 AV are being tested on public roads. There are a few full AV Level 5 concept AV being tested. Honda and Tesla are are promoting AV Level 5 is soon to be available. 
 
@@ -283,7 +283,7 @@ Musk Predicts Tesla Will Achieve Full Autonomy By 2021 [#]_
 
    "Tesla is less than two years away from full self-driving, CEO Elon Musk said in an interview. And said Tesla was far ahead of other companies working on self-driving technology."
 
-   It is almost 2021, and it did not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever.
+   It is almost 2021, and it has not happen. Not even close. Saying something doesn't make it real. What magic transforms a Level 2 Partial Assistance Tesla into a Level 5 Full Automation in less than 2 years? I think it would probably be the biggest  magic show ever.
 
    "To me right now, this seems 'game, set, and match,'" Musk said. "I could be wrong, but it appears to be the case that Tesla is vastly ahead of everyone."
 
