@@ -5,7 +5,7 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Build a Blog &#8212; Tech Talk  documentation</title>
+    <title>Build a Sphinx Blog &#8212; Tech Talk  documentation</title>
     <link rel="stylesheet" href="../_static/alabaster.css" type="text/css" />
     <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
     <script id="documentation_options" data-url_root="../" src="../_static/documentation_options.js"></script>
@@ -46,8 +46,8 @@
 
           <div class="body" role="main">
             
-  <div class="section" id="build-a-blog">
-<h1>Build a Blog<a class="headerlink" href="#build-a-blog" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="build-a-sphinx-blog">
+<h1>Build a Sphinx Blog<a class="headerlink" href="#build-a-sphinx-blog" title="Permalink to this headline">¶</a></h1>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 <ul class="simple">
@@ -55,47 +55,110 @@
 </ul>
 </div>
 <p><em>Home page</em> <a class="reference internal" href="../#tech-talk-blog"><span class="std std-ref">Tech Talk Blog</span></a></p>
-<hr class="docutils" />
-<p>This post is about creating and deploying this blog <a class="reference internal" href="../#tech-talk-blog"><span class="std std-ref">Tech Talk Blog</span></a></p>
+<div class="section" id="synopsis">
+<h2>Synopsis<a class="headerlink" href="#synopsis" title="Permalink to this headline">¶</a></h2>
+<p>This post is about creating and deploying this blog, <a class="reference internal" href="../#tech-talk-blog"><span class="std std-ref">Tech Talk Blog</span></a></p>
+<p>Since the early days of the web, I have built blogs and web sites from scratch or used  technology du jour.</p>
+<p>My preference is using a <a class="reference internal" href="#vscode"><span class="std std-ref">vsCode</span></a> , <a class="reference internal" href="#sphinx"><span class="std std-ref">Sphinx</span></a>, <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a> and <a class="reference internal" href="#netlify"><span class="std std-ref">Netlify</span></a> framework.</p>
+<p>I use <a class="reference internal" href="#vscode"><span class="std std-ref">vsCode</span></a> as Central Command and Control to man age this blog. I edit source files with a live preview edit window to view rendered file changes. I can compile the web site, upload it to Netlify, and deploy it to the web in less than 30 seconds.</p>
+<p>I think his is the best and faster web development technology I have cobbled.</p>
 </div>
-<div class="section" id="sphinx-doc">
-<h1>Sphinx-doc<a class="headerlink" href="#sphinx-doc" title="Permalink to this headline">¶</a></h1>
-<p>Sphinx <a class="footnote-reference brackets" href="#id7" id="id1">1</a> is web site generator for creating web sites and other types of documentation. It requires using Markdown <a class="footnote-reference brackets" href="#id8" id="id2">2</a>, or <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a> which is  a  user-friendly, plain text markup language,  for editing web site and other text material.</p>
+<div class="section" id="sphinx">
+<h2>Sphinx<a class="headerlink" href="#sphinx" title="Permalink to this headline">¶</a></h2>
+<p>This web site is built using <a class="reference internal" href="#sphinx"><span class="std std-ref">Sphinx</span></a>  It uses <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a>  as its markup language, and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating using the Docutils <a class="footnote-reference brackets" href="#id11" id="id1">1</a> suit,</p>
+<p>Sphinx <a class="footnote-reference brackets" href="#id12" id="id2">2</a> is web site generator for creating web sites and other types of documentation. It requires using Markdown <a class="footnote-reference brackets" href="#id13" id="id3">3</a>, or <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a> which is  a  user-friendly, plain text markup language,  for editing web site and other text material.</p>
+<hr class="docutils" />
+<p>Sphinx <a class="footnote-reference brackets" href="#id14" id="id4">4</a> is the framework for building this site. It   requires  using <span class="xref std std-ref">Markdown</span>  or <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a> for text material editing. My preference is reStructuredText.</p>
+<p>Most development time is spent editing web site text material. The VScode reStructuredText Extension <a class="footnote-reference brackets" href="#id15" id="id5">5</a> dramatically speeds up development  supports reStructuredText features:</p>
+<blockquote>
+<div><ul class="simple">
+<li><p>Syntax highlighting quickly detects <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a> errors while typing or compiling, and may give hints about the problems</p></li>
+<li><p>Frequent snippets of code can be quickly inserted</p></li>
+<li><p>Section builder provides a quick way for setting section header levels</p></li>
+<li><p>Live preview compiles source files in the background. Quickly invoking live preview while editing, shows how the edit will be displayed on the web</p></li>
+</ul>
+</div></blockquote>
 </div>
 <div class="section" id="restructuredtext">
-<h1>reStructuredText<a class="headerlink" href="#restructuredtext" title="Permalink to this headline">¶</a></h1>
-<p>reStructuredText <a class="footnote-reference brackets" href="#id9" id="id3">3</a>  is a lightweight markup language that is used in static site generators like Sphinx <a class="footnote-reference brackets" href="#id7" id="id4">1</a>. Sphinx requires using Markdown or reStructuredText for text material editing. This web site is an example of using reStructuredText and Spninx.</p>
+<h2>reStructuredText<a class="headerlink" href="#restructuredtext" title="Permalink to this headline">¶</a></h2>
+<p><a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a>  is a lightweight markup language that is used in static site generators like <a class="reference internal" href="#sphinx"><span class="std std-ref">Sphinx</span></a>. Sphinx requires using Markdown or reStructuredText for text material editing. This web site is an example of using reStructuredText and Sphinx.</p>
 <p>Sphinx contains robust tools for semantic markup, reusing content, and content filters for different kinds of outputs.</p>
 <p>Compared to some other lightweight markup languages like Markdown, reStructuredText contains stronger semantic markup tools. Some writers also prefer reStructuredText because the markup standards are more well-defined compared to MarkDown</p>
-<p>reStructuredText is an easy-to-read,  plaintext markup syntax and parser system. A useful feature of Sphinx is one can see the reStructuredText used to create a web page by clicking on “Page source” in the lower right corner of a web page. I used this to speed up learning Sphinx. I think reStructuredText is easier to read than markdown.</p>
+<p>reStructuredText is an easy-to-read,  plaintext markup syntax and parser system. The  syntax is relative easy to read and can be translated to Markdown.</p>
+<p>Regardless of the framework using a flavour of Markdown,  my experience is embedding HTML with Markdown was necessary every so ofter. Not so with reStructuredText.</p>
+<p>A useful feature of Sphinx is one can see the reStructuredText used to create a web page by clicking on “Page source” in the lower right corner of a web page. I used this to speed up learning Sphinx. I think reStructuredText is easier to read than markdown.</p>
 <p>It is useful for quickly creating simple web pages, and for standalone documents</p>
 <p>“Structured Text” is probably a bit of a misnomer. It’s more like “Relaxed Text” that uses certain consistent patterns. These patterns are interpreted by a HTML converter to produce “Very Structured Text” that can be used by a web browser</p>
-<p>reStructuredText is the default plaintext markup language for Sphinx and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating suite, the Docutils <a class="footnote-reference brackets" href="#id10" id="id5">4</a></p>
+<p>reStructuredText is the default plaintext markup language for Sphinx and many of its strengths come from the power and straightforwardness of reStructuredText and its parsing and translating suite, the Docutils <a class="footnote-reference brackets" href="#id16" id="id6">6</a></p>
+<hr class="docutils" />
+<p>My preference is using <a class="reference internal" href="#restructuredtext"><span class="std std-ref">reStructuredText</span></a> and <a class="reference internal" href="#sphinx"><span class="std std-ref">Sphinx</span></a> framework. It also supports Markdown.   Its syntax is relative easy to read and can be translated to Markdown.</p>
+<p>Regardless of the framework used requiring a flavour of Markdown,  my experience is embedding HTML with Markdown was necessary every so ofter. Not so with reStructuredText.</p>
 </div>
 <div class="section" id="blog">
-<h1>Blog<a class="headerlink" href="#blog" title="Permalink to this headline">¶</a></h1>
-<p>ABlog for Sphinx <a class="footnote-reference brackets" href="#id11" id="id6">5</a> is a Sphinx extension that converts any documentation or personal website project into a full-fledged blog</p>
+<h2>Blog<a class="headerlink" href="#blog" title="Permalink to this headline">¶</a></h2>
+<p>ABlog for Sphinx <a href="#id17"><span class="problematic" id="id18"><span id="id7"></span>[#]_</span></a> is a Sphinx extension that converts any documentation or personal website project into a full-fledged blog</p>
+</div>
+<div class="section" id="vscode">
+<h2>vsCode<a class="headerlink" href="#vscode" title="Permalink to this headline">¶</a></h2>
+<p>I use vsCode to edit and manage my Tech Talk John blog, with a live preview edit window to view rendered file changes.</p>
+<p>It takes Sphinx 13 sec. to compile a 755 files / 89 MB blog directory structure, and Netlify CLI  6.5 sec to copy and deploy it to a CDN. I can edit files and within 20 seconds see the blog on the web.</p>
+<p>This process speeds up my time proof reading and correcting errors. A wise tech writer once said to render writings in different media before publishing.</p>
+<hr class="docutils" />
+<p>Developers using  Visual Studio Code <a href="#id17"><span class="problematic" id="id19"><span id="id8"></span>[#]_</span></a> as   Central Command and Control   enables  developing, managing,  controlling, and deploying web sites. VScode, is a lightweight open source code editor that runs on local development computers,  and is available for Linux, macOS, and Windows. It may be the best text editor in years</p>
+<hr class="docutils" />
+<p><strong>blog</strong></p>
+</div>
+<hr class="docutils" />
+<div class="section" id="netlify">
+<h2>Netlify<a class="headerlink" href="#netlify" title="Permalink to this headline">¶</a></h2>
+<p>Netlify <a href="#id17"><span class="problematic" id="id20"><span id="id9"></span>[#]_</span></a> is a popular Application Delivery Network (ADN). It provides continuous web deployment.</p>
+<ul class="simple">
+<li><p>One Way is when Netlify is notified of a commit to a shared GitHub repository that has been configured, Netlify builds the web sites from the  shared repository and deploys the web worldwide to every major cloud provider.</p></li>
+<li><p>Another way is using the Netlify CLI Command <a href="#id17"><span class="problematic" id="id21"><span id="id10"></span>[#]_</span></a> program running on the local development computer,  Netlify can deploy draft previews of live web sites.</p></li>
+</ul>
+<p>Frequently viewing drafts of the entire web site on the web helps.</p>
+<p>I prefer using Netlify CLI Command. I still commit to a GitHub repository to help me keep my sanity. I have configure Netlify not to build the web site after a repository commit.</p>
+<p>Deploying web site draft preview:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Compile reStructuredText to HTML</span>
+<span class="n">ablog</span> <span class="n">build</span>
+<span class="c1"># Deploy web site draft preview</span>
+<span class="n">netlify</span> <span class="n">deploy</span>
+<span class="c1"># Click on the Website Draft  URL</span>
+</pre></div>
+</div>
+<p>If the draft preview looks good, deploy production using the <code class="docutils literal notranslate"><span class="pre">--prod</span></code> flag</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="c1"># Compile reStructuredText to HTML</span>
+<span class="n">ablog</span> <span class="n">build</span>
+<span class="c1"># Deploy production web site</span>
+<span class="n">netlify</span> <span class="n">deploy</span> <span class="o">--</span><span class="n">prod</span>
+<span class="c1"># Click on the Website URL</span>
+</pre></div>
+</div>
 <hr class="docutils" />
 <p class="rubric">Footnotes:</p>
 <dl class="footnote brackets">
-<dt class="label" id="id7"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
+<dt class="label" id="id11"><span class="brackets"><a class="fn-backref" href="#id1">1</a></span></dt>
 <dd><p>Sphinx : <a class="reference external" href="https://www.sphinx-doc.org/en/master/index.html">https://www.sphinx-doc.org/en/master/index.html</a></p>
 </dd>
-<dt class="label" id="id8"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
+<dt class="label" id="id12"><span class="brackets"><a class="fn-backref" href="#id2">2</a></span></dt>
 <dd><p>Markdown Syntax Guide: <a class="reference external" href="https://daringfireball.net/projects/markdown/syntax">https://daringfireball.net/projects/markdown/syntax</a></p>
 </dd>
-<dt class="label" id="id9"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
+<dt class="label" id="id13"><span class="brackets"><a class="fn-backref" href="#id3">3</a></span></dt>
 <dd><p>reStructuredText: <a class="reference external" href="https://en.wikipedia.org/wiki/ReStructuredText">https://en.wikipedia.org/wiki/ReStructuredText</a></p>
 </dd>
-<dt class="label" id="id10"><span class="brackets"><a class="fn-backref" href="#id5">4</a></span></dt>
+<dt class="label" id="id14"><span class="brackets"><a class="fn-backref" href="#id4">4</a></span></dt>
 <dd><p>Docutils: <a class="reference external" href="http://docutils.sourceforge.net">http://docutils.sourceforge.net</a></p>
 </dd>
-<dt class="label" id="id11"><span class="brackets"><a class="fn-backref" href="#id6">5</a></span></dt>
+<dt class="label" id="id15"><span class="brackets"><a class="fn-backref" href="#id5">5</a></span></dt>
 <dd><p>ABlog for Sphinx: <a class="reference external" href="https://ablog.readthedocs.io">https://ablog.readthedocs.io</a></p>
+</dd>
+<dt class="label" id="id16"><span class="brackets"><a class="fn-backref" href="#id6">6</a></span></dt>
+<dd><p>Get started with Netlify CLI: <a class="reference external" href="https://docs.netlify.com/cli/get-started/#run-builds-locally">https://docs.netlify.com/cli/get-started/#run-builds-locally</a></p>
 </dd>
 </dl>
 <hr class="docutils" />
 <p><em>Home page</em> <a class="reference internal" href="../#tech-talk-blog"><span class="std std-ref">Tech Talk Blog</span></a></p>
+</div>
 </div>
 
   <div class="section">
